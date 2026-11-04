@@ -1,0 +1,10 @@
+.hero{position:relative;isolation:isolate}
+.hero__stage{position:relative;width:100%;height:calc(981 * var(--u));max-height:100svh;overflow:clip;background:var(--color-bg-primary)}
+.hero .hero__intro{height:calc(981 * var(--u))}
+.hero__title{position:absolute;left:50%;top:calc(130 * var(--u));transform:translateX(-50%);font-size:calc(150 * var(--u));font-weight:900;line-height:1;text-align:center;white-space:pre}
+.hero__title span{display:block}
+.hero__copy{position:absolute;left:calc(162 * var(--u));top:calc(539 * var(--u));font-size:calc(20 * var(--u));font-weight:600;line-height:1.2;letter-spacing:-.05em;white-space:nowrap}
+.hero__cards{position:absolute;inset:0;list-style:none;pointer-events:none}
+.hero__polaroid{position:absolute;left:calc(50% + var(--stack-x) * var(--u));top:calc(var(--stack-y) * var(--u));width:calc(var(--card-width) * var(--u));z-index:var(--card-layer);transform:translate(-50%,-50%) rotate(var(--stack-rotation)) scale(var(--stack-scale));transform-origin:50% 50%}
+.hero__polaroid img{width:100%;height:auto;user-select:none}
+.hero--scroll .hero__polaroid{will-change:transform}

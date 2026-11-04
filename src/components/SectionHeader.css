@@ -1,0 +1,5 @@
+.section-header{position:absolute;top:calc(130 * var(--u));left:calc(155 * var(--u));width:calc(1283 * var(--u));height:calc(38 * var(--u));font-size:calc(14 * var(--u));font-weight:300;letter-spacing:-.04em;line-height:normal}
+.section-header--inter{font-family:Inter,sans-serif}
+.section-header__label{padding-left:calc(21 * var(--u));list-style-type:disc}
+.section-header__number{position:absolute;right:0;top:0}
+.section-header__rule{position:absolute;left:calc(7 * var(--u));top:calc(36.5 * var(--u));width:calc(1276 * var(--u));height:calc(1 * var(--u))}

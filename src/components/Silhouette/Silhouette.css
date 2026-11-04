@@ -1,0 +1,8 @@
+.silhouette{height:calc(1654 * var(--u));overflow:clip}
+.silhouette__title{position:absolute;left:calc(162 * var(--u));top:calc(247 * var(--u));font-size:calc(60 * var(--u));font-weight:600;line-height:1.1;letter-spacing:-.04em;white-space:nowrap}
+.silhouette__intro{position:absolute;left:calc(1190 * var(--u));top:calc(265 * var(--u));font-size:calc(20 * var(--u));font-weight:600;line-height:1.2;letter-spacing:-.04em;white-space:nowrap}
+.silhouette__grid{position:absolute;left:calc(162 * var(--u));top:calc(430 * var(--u));display:grid;grid-template-columns:repeat(3,calc(390 * var(--u)));column-gap:calc(53 * var(--u));row-gap:calc(50 * var(--u))}
+.silhouette__card{position:relative;width:calc(390 * var(--u));height:calc(522 * var(--u));border-radius:calc(20 * var(--u));background:var(--fit-card-bg);color:var(--color-text-inverse);overflow:clip}
+.silhouette__name{position:absolute;left:50%;top:calc(20 * var(--u));transform:translateX(-50%);padding:calc(15 * var(--u)) calc(41 * var(--u));border-radius:calc(50 * var(--u));background:var(--color-white);color:var(--color-black);font-family:Roboto,sans-serif;font-size:calc(20 * var(--u));font-weight:600;line-height:normal;white-space:nowrap}
+.silhouette__description{position:absolute;left:50%;top:calc(89 * var(--u));transform:translateX(-50%);font-size:calc(20 * var(--u));font-weight:300;line-height:normal;text-align:center;white-space:nowrap}
+.silhouette__image{position:absolute;left:calc(30 * var(--u));top:calc(153 * var(--u));width:calc(330 * var(--u));height:calc(339 * var(--u));border-radius:calc(20 * var(--u));object-fit:cover}

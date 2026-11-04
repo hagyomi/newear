@@ -1,0 +1,23 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+    --color-history-gray: #dfdedf;
+    --color-pagination-gray: #898989;
+    --color-authentic-blue: #b3c2ff;
+    --color-lookbook-lavender: #eee9ff;
+    --color-lookbook-purple: #3b3769;
+    --color-lookbook-pink-1: #fff2f2;
+    --color-lookbook-pink-2: #fff1f1;
+    --color-lookbook-burgundy: #642e2e;
+    --color-lookbook-mint: #e0ffe5;
+    --color-lookbook-green: #25482a;
+    --color-bg-primary: var(--color-white);
+    --color-text-primary: var(--color-black);
+    --color-text-inverse: var(--color-white);
+    --color-border-strong: var(--color-black);
+    --history-card-bg: var(--color-history-gray);
+    --fit-card-bg: var(--color-black);
+    --authentic-bg: var(--color-authentic-blue);
+    --container-main: 1600px;
+    --section-rule-width: 1276px;
+}
