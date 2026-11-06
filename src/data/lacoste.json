@@ -1,0 +1,160 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?type=O&xcode=274",
+  "checkedAt": "2026-11-07",
+  "total": 17,
+  "products": [
+    {
+      "id": "11263789",
+      "code": "274000000031",
+      "name": "라코스테 볼 언스트럭쳐 볼캡 화이트",
+      "englishName": "BALL 9TWENTY LACOSTE  WHI",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263789.jpg"
+    },
+    {
+      "id": "11263784",
+      "code": "274000000026",
+      "name": "라코스테 코어 볼캡 화이트",
+      "englishName": "CORE 9FORTY LACOSTE  WHI",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263784.jpg"
+    },
+    {
+      "id": "11263782",
+      "code": "274000000024",
+      "name": "[우먼] 라코스테 코어 볼캡 라이트 퍼플",
+      "englishName": "CORE 9FORTY WMNS MMA",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263782.jpg"
+    },
+    {
+      "id": "11263790",
+      "code": "274000000032",
+      "name": "라코스테 플래그 언스트럭쳐 볼캡 다크 그린",
+      "englishName": "FLAG 9TWENTY DKG",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263790.jpg"
+    },
+    {
+      "id": "11263785",
+      "code": "274000000027",
+      "name": "라코스테 코어 볼캡 블랙",
+      "englishName": "CORE 9FORTY BLK",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263785.jpg"
+    },
+    {
+      "id": "11263788",
+      "code": "274000000030",
+      "name": "라코스테 볼 언스트럭쳐 볼캡 블루",
+      "englishName": "BALL 9TWENTY FDB",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263788.jpg"
+    },
+    {
+      "id": "11263791",
+      "code": "274000000033",
+      "name": "라코스테 플래그 언스트럭쳐 볼캡 파스텔 블루",
+      "englishName": "FLAG 9TWENTY SFB",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263791.jpg"
+    },
+    {
+      "id": "11263792",
+      "code": "274000000034",
+      "name": "라코스테 플래그 언스트럭쳐 볼캡 화이트",
+      "englishName": "FLAG 9TWENTY LACOSTE  WHI",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263792.jpg"
+    },
+    {
+      "id": "11263779",
+      "code": "274000000021",
+      "name": "[우먼] 라코스테 코어 볼캡 화이트",
+      "englishName": "CORE 9FORTY WMNS LACOSTE  WHI",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263779.jpg"
+    },
+    {
+      "id": "11263781",
+      "code": "274000000023",
+      "name": "[우먼] 라코스테 코어 볼캡 라이트 마룬",
+      "englishName": "CORE 9FORTY WMNS MRN",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263781.jpg"
+    },
+    {
+      "id": "11263783",
+      "code": "274000000025",
+      "name": "라코스테 코어 볼캡 그린",
+      "englishName": "CORE 9FORTY BTG",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263783.jpg"
+    },
+    {
+      "id": "11263786",
+      "code": "274000000028",
+      "name": "라코스테 볼 언스트럭쳐 볼캡 네이비",
+      "englishName": "BALL 9TWENTY CSN",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263786.jpg"
+    },
+    {
+      "id": "11263787",
+      "code": "274000000029",
+      "name": "라코스테 볼 언스트럭쳐 볼캡 브라운",
+      "englishName": "BALL 9TWENTY KHK",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263787.jpg"
+    },
+    {
+      "id": "11263793",
+      "code": "274000000035",
+      "name": "라코스테 플래그 언스트럭쳐 볼캡 네이비",
+      "englishName": "FLAG 9TWENTY LACOSTE  NVY",
+      "price": 79000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263793.jpg"
+    },
+    {
+      "id": "11263794",
+      "code": "274000000036",
+      "name": "라코스테 프론트 패치 레트로 크라운 스냅백 화이트",
+      "englishName": "FRONT PATCH 9FIFTYRC WHI",
+      "price": 79000,
+      "type": "스냅백",
+      "image": "images/products/lacoste/11263794.jpg"
+    },
+    {
+      "id": "11263795",
+      "code": "274000000037",
+      "name": "라코스테 프론트 패치 레트로 크라운 스냅백 네이비",
+      "englishName": "FRONT PATCH 9FIFTYRC NVY",
+      "price": 79000,
+      "type": "스냅백",
+      "image": "images/products/lacoste/11263795.jpg"
+    },
+    {
+      "id": "11263780",
+      "code": "274000000022",
+      "name": "[우먼] 라코스테 코어 볼캡 라이트 베이지",
+      "englishName": "CORE 9FORTY WMNS LACOSTE  GRG",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/lacoste/11263780.jpg"
+    }
+  ]
+}

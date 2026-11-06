@@ -1,0 +1,457 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?type=P&xcode=091",
+  "checkedAt": "2026-11-07",
+  "total": 50,
+  "products": [
+    {
+      "id": "11264037",
+      "code": "014002003812",
+      "name": "[키즈] MLB 뉴욕 양키스 다운 재킷 다크 와인",
+      "englishName": "APK MLB YANKEES DOWN DJ64 NEYYAN D WIN",
+      "price": 289000,
+      "type": "아우터",
+      "image": "images/products/kids/11264037.jpg"
+    },
+    {
+      "id": "11264036",
+      "code": "014002003811",
+      "name": "[키즈] MLB 뉴욕 양키스 다운 재킷 다크 올리브",
+      "englishName": "APK MLB YANKEES DOWN DJ64 NEYYAN D OLI",
+      "price": 289000,
+      "type": "아우터",
+      "image": "images/products/kids/11264036.jpg"
+    },
+    {
+      "id": "11264035",
+      "code": "014002003810",
+      "name": "[키즈] MLB 뉴욕 양키스 다운 재킷 블랙",
+      "englishName": "APK MLB YANKEES DOWN DJ64 NEYYAN BLK",
+      "price": 289000,
+      "type": "아우터",
+      "image": "images/products/kids/11264035.jpg"
+    },
+    {
+      "id": "11263936",
+      "code": "014002003808",
+      "name": "[키즈] MLB 뉴욕 양키스 코듀로이 스타디움 재킷 블랙",
+      "englishName": "APK MLB CORD STADIUM JK63 NEYYAN BLK",
+      "price": 189000,
+      "type": "아우터",
+      "image": "images/products/kids/11263936.jpg"
+    },
+    {
+      "id": "11263935",
+      "code": "014002003807",
+      "name": "[키즈] MLB 샌디에이고 파드리스 코듀로이 스타디움 재킷 브라운",
+      "englishName": "APK MLB CORD STADIUM JK63 SADPAD BRO",
+      "price": 189000,
+      "type": "아우터",
+      "image": "images/products/kids/11263935.jpg"
+    },
+    {
+      "id": "11263934",
+      "code": "014002003806",
+      "name": "[키즈] MLB LA 다저스 코듀로이 스타디움 재킷 네이비",
+      "englishName": "APK MLB CORD STADIUM JK63 LOSDOD NAV",
+      "price": 189000,
+      "type": "아우터",
+      "image": "images/products/kids/11263934.jpg"
+    },
+    {
+      "id": "11263884",
+      "code": "014001002594",
+      "name": "[키즈] AC 밀란 FC 플로리스 피티드캡 스칼렛",
+      "englishName": "K 5950 FLAWLESS ACMILAN SCA",
+      "price": 49000,
+      "type": "모자",
+      "image": "images/products/kids/11263884.jpg"
+    },
+    {
+      "id": "11263883",
+      "code": "014001002593",
+      "name": "[키즈] 첼시 FC 플로리스 피티드캡 라이트 로얄",
+      "englishName": "K 5950 FLAWLESS CHELFC L ROY",
+      "price": 49000,
+      "type": "모자",
+      "image": "images/products/kids/11263883.jpg"
+    },
+    {
+      "id": "11263882",
+      "code": "014001002592",
+      "name": "[키즈] 파리 생제르맹 FC 플로리스 피티드캡 네이비",
+      "englishName": "K 5950 FLAWLESS PSG NVY",
+      "price": 49000,
+      "type": "모자",
+      "image": "images/products/kids/11263882.jpg"
+    },
+    {
+      "id": "11263878",
+      "code": "014001002588",
+      "name": "[키즈] 토트넘 핫스퍼 FC 플로리스 피티드캡 네이비",
+      "englishName": "K 5950 FLAWLESS TOTFC NVY",
+      "price": 49000,
+      "type": "모자",
+      "image": "images/products/kids/11263878.jpg"
+    },
+    {
+      "id": "11263877",
+      "code": "014001002587",
+      "name": "[키즈] NFL 댈러스 카우보이스 사이드 패치 스냅백 네이비",
+      "englishName": "K 950 NFL SIDE PATCH DALCOW NVY",
+      "price": 46000,
+      "type": "모자",
+      "image": "images/products/kids/11263877.jpg"
+    },
+    {
+      "id": "11263874",
+      "code": "014001002584",
+      "name": "[키즈] NFL 그린베이 패커스 사이드 패치 스냅백 화이트/골드",
+      "englishName": "K 950 NFL SIDE PATCH GREPAC WHI GOL",
+      "price": 46000,
+      "type": "모자",
+      "image": "images/products/kids/11263874.jpg"
+    },
+    {
+      "id": "11263873",
+      "code": "014001002583",
+      "name": "[키즈] NFL 라스베이거스 레이더스 사이드 패치 스냅백 블랙",
+      "englishName": "K 950 NFL SIDE PATCH LASRAI BLK",
+      "price": 46000,
+      "type": "모자",
+      "image": "images/products/kids/11263873.jpg"
+    },
+    {
+      "id": "11263872",
+      "code": "014001002582",
+      "name": "[키즈] NFL 뉴욕 자이언츠 사이드 패치 스냅백 스톤/라이트 로얄",
+      "englishName": "K 950 NFL SIDE PATCH NEYGIA STO L ROY",
+      "price": 46000,
+      "type": "모자",
+      "image": "images/products/kids/11263872.jpg"
+    },
+    {
+      "id": "11263870",
+      "code": "014001002580",
+      "name": "[키즈] NFL 샌프란시스코 포티나이너스 사이드 패치 스냅백 블랙/스칼렛",
+      "englishName": "K 950 NFL SIDE PATCH SAF49E BLK SCA",
+      "price": 46000,
+      "type": "모자",
+      "image": "images/products/kids/11263870.jpg"
+    },
+    {
+      "id": "11263859",
+      "code": "014002003805",
+      "name": "[키즈] NFL 라스베이거스 레이더스 팀 후드 집업 팀 블랙",
+      "englishName": "APK NFL TEAM HD ZIP UP FT63 LASRAI BLK",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263859.jpg"
+    },
+    {
+      "id": "11263857",
+      "code": "014002003803",
+      "name": "[키즈] NFL 뉴욕 자이언츠 팀 후드 집업 팀 네이비",
+      "englishName": "APK NFL TEAM HD ZIP UP FT63 NEYGIA T NAV",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263857.jpg"
+    },
+    {
+      "id": "11263856",
+      "code": "014002003802",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 1921 월드 시리즈 후드 집업 그레이쉬 블루",
+      "englishName": "APK MLB 1921 WRD SRS FT63 NEYYANCO G BLU",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263856.jpg"
+    },
+    {
+      "id": "11263854",
+      "code": "014002003800",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 1921 월드 시리즈 후드 집업 올리브 그린",
+      "englishName": "APK MLB 1921 WRD SRS FT63 NEYYANCO O GRE",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263854.jpg"
+    },
+    {
+      "id": "11263853",
+      "code": "014002003799",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 1921 월드 시리즈 후드 집업 블랙",
+      "englishName": "APK MLB 1921 WRD SRS FT63 NEYYANCO BLK",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263853.jpg"
+    },
+    {
+      "id": "11263852",
+      "code": "014002003798",
+      "name": "[키즈] MLB 뉴욕 양키스 올드 잉글리시 빈티지 후드 집업 차콜",
+      "englishName": "APK MLB OLD ENGLISH VNTG FT63 NEYYAN CHA",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263852.jpg"
+    },
+    {
+      "id": "11263851",
+      "code": "014002003797",
+      "name": "[키즈] MLB 뉴욕 양키스 올드 잉글리시 빈티지 후드 집업 딥 블루",
+      "englishName": "APK MLB OLD ENGLISH VNTG FT63 NEYYAN DBL",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263851.jpg"
+    },
+    {
+      "id": "11263850",
+      "code": "014002003796",
+      "name": "[키즈] MLB 뉴욕 양키스 올드 잉글리시 빈티지 후드 집업 핑크",
+      "englishName": "APK MLB OLD ENGLISH VNTG FT63 NEYYAN PIN",
+      "price": 109000,
+      "type": "후드",
+      "image": "images/products/kids/11263850.jpg"
+    },
+    {
+      "id": "11263849",
+      "code": "014002003795",
+      "name": "[키즈] 스웨트 데님 카고 팬츠 블랙",
+      "englishName": "APK SWEAT DENIM CARGO PANTS FP63 BLK",
+      "price": 109000,
+      "type": "하의",
+      "image": "images/products/kids/11263849.jpg"
+    },
+    {
+      "id": "11263848",
+      "code": "014002003794",
+      "name": "[키즈] 스웨트 데님 카고 팬츠 인디고",
+      "englishName": "APK SWEAT DENIM CARGO PANTS FP63 IND",
+      "price": 109000,
+      "type": "하의",
+      "image": "images/products/kids/11263848.jpg"
+    },
+    {
+      "id": "11263772",
+      "code": "014002003790",
+      "name": "[키즈] 와이드 팬츠 다크 와인",
+      "englishName": "APK WIDE PANTS FP63 OAT",
+      "price": 69000,
+      "type": "하의",
+      "image": "images/products/kids/11263772.jpg"
+    },
+    {
+      "id": "11263771",
+      "code": "014002003789",
+      "name": "[키즈] 와이드 팬츠 오트밀",
+      "englishName": "APK WIDE PANTS FP63 OAT",
+      "price": 69000,
+      "type": "하의",
+      "image": "images/products/kids/11263771.jpg"
+    },
+    {
+      "id": "11263770",
+      "code": "014002003788",
+      "name": "[키즈] MLB 뉴욕 양키스 스트라이프 후드 집업 팀 네이비",
+      "englishName": "APK MLB STP HD ZIP UP FT63 NEYYAN T NAV",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263770.jpg"
+    },
+    {
+      "id": "11263769",
+      "code": "014002003787",
+      "name": "[키즈] MLB 샌디에이고 파드리스 스트라이프 후드 집업 다크 와인",
+      "englishName": "APK MLB STP HD ZIP UP FT63 SADPAD D WIN",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263769.jpg"
+    },
+    {
+      "id": "11263746",
+      "code": "014002003784",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 후드 팀 네이비",
+      "englishName": "APK MLB CPRSTWN NY HD63 NEYYANCO T NAV",
+      "price": 89000,
+      "type": "후드",
+      "image": "images/products/kids/11263746.jpg"
+    },
+    {
+      "id": "11263745",
+      "code": "014002003783",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 후드 레드",
+      "englishName": "APK MLB CPRSTWN NY HD63 NEYYANCO RED",
+      "price": 89000,
+      "type": "후드",
+      "image": "images/products/kids/11263745.jpg"
+    },
+    {
+      "id": "11263744",
+      "code": "014002003782",
+      "name": "[키즈] MLB 쿠퍼스 타운 LA 다저스 후드 블랙",
+      "englishName": "APK MLB CPRSTWN NY HD63 LOSDODCO BLK",
+      "price": 89000,
+      "type": "후드",
+      "image": "images/products/kids/11263744.jpg"
+    },
+    {
+      "id": "11263743",
+      "code": "014002003781",
+      "name": "[키즈] MLB 쿠퍼스 타운 LA 다저스 후드 블루",
+      "englishName": "APK MLB CPRSTWN NY HD63 LOSDODCO S BLU",
+      "price": 89000,
+      "type": "후드",
+      "image": "images/products/kids/11263743.jpg"
+    },
+    {
+      "id": "11263742",
+      "code": "014002003780",
+      "name": "[키즈] MLB 쿠퍼스 타운 LA 다저스 월드 시리즈 후드 집업 헤더 딥 블루",
+      "englishName": "APK MLB WRD SRS FT63 LOSDODCO D BLU",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263742.jpg"
+    },
+    {
+      "id": "11263741",
+      "code": "014002003779",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 월드 시리즈 후드 집업 팀 네이비",
+      "englishName": "APK MLB WRD SRS FT63 NEYYANCO T NAV",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263741.jpg"
+    },
+    {
+      "id": "11263740",
+      "code": "014002003778",
+      "name": "[키즈] MLB 쿠퍼스 타운 LA 다저스 월드 시리즈 후드 집업 블랙",
+      "englishName": "APK MLB WRD SRS FT63 LOSDODCO BLK",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263740.jpg"
+    },
+    {
+      "id": "11263736",
+      "code": "014002003774",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 월드 시리즈 후드 집업 헤더 그레이",
+      "englishName": "APK MLB WRD SRS FT63 NEYYANCO HGRY",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263736.jpg"
+    },
+    {
+      "id": "11263734",
+      "code": "014002003773",
+      "name": "[키즈] 스웨트 데님 후드 집업 블랙",
+      "englishName": "APK SWEAT DENIM HOODED ZIP UP FT63 BLK",
+      "price": 119000,
+      "type": "후드",
+      "image": "images/products/kids/11263734.jpg"
+    },
+    {
+      "id": "11263730",
+      "code": "014002003769",
+      "name": "[키즈] 스웨트 데님 후드 집업 인디고",
+      "englishName": "APK SWEAT DENIM HOODED ZIP UP FT63 IND",
+      "price": 119000,
+      "type": "후드",
+      "image": "images/products/kids/11263730.jpg"
+    },
+    {
+      "id": "11263729",
+      "code": "014002003768",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 월드 시리즈 다크 와인",
+      "englishName": "APK MLB WORLD SERIES RL63 NEYYANCO D WIN",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263729.jpg"
+    },
+    {
+      "id": "11263728",
+      "code": "014002003767",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 월드 시리즈 블랙",
+      "englishName": "APK MLB WORLD SERIES RL63 NEYYANCO BLK",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263728.jpg"
+    },
+    {
+      "id": "11263727",
+      "code": "014002003766",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 월드 시리즈 팀 네이비",
+      "englishName": "APK MLB WORLD SERIES RL63 NEYYANCO T NAV",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263727.jpg"
+    },
+    {
+      "id": "11263726",
+      "code": "014002003765",
+      "name": "[키즈] MLB 쿠퍼스 타운 뉴욕 양키스 월드 시리즈 오트밀",
+      "englishName": "APK MLB WORLD SERIES RL63 NEYYANCO OAT",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263726.jpg"
+    },
+    {
+      "id": "11263725",
+      "code": "014002003764",
+      "name": "[키즈] (기모) MLB 뉴욕 양키스 팀 플래그 후드 다크 와인",
+      "englishName": "APK MLB TEAM FLAG HD63 NEYYAN D WIN",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263725.jpg"
+    },
+    {
+      "id": "11263723",
+      "code": "014002003762",
+      "name": "[키즈] (기모) MLB 뉴욕 양키스 팀 플래그 후드 팀 네이비",
+      "englishName": "APK MLB TEAM FLAG HD63 NEYYAN T NAV",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263723.jpg"
+    },
+    {
+      "id": "11263722",
+      "code": "014002003761",
+      "name": "[키즈] (기모) MLB 뉴욕 양키스 팀 플래그 후드 헤더 그레이",
+      "englishName": "APK MLB TEAM FLAG HD63 NEYYAN HGRY",
+      "price": 99000,
+      "type": "후드",
+      "image": "images/products/kids/11263722.jpg"
+    },
+    {
+      "id": "11263721",
+      "code": "014002003760",
+      "name": "[키즈] (기모) MLB LA 다저스 피그먼트 스웨트 맨투맨 차콜",
+      "englishName": "APK MLB PIGMENT SWEAT RL63 LOSDOD CHA",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263721.jpg"
+    },
+    {
+      "id": "11263720",
+      "code": "014002003759",
+      "name": "[키즈] (기모) MLB LA 다저스 피그먼트 스웨트 맨투맨 스틸 스카이",
+      "englishName": "APK MLB PIGMENT SWEAT RL63 LOSDOD S SKY",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263720.jpg"
+    },
+    {
+      "id": "11263719",
+      "code": "014002003758",
+      "name": "[키즈] (기모) MLB 뉴욕 양키스 피그먼트 스웨트 맨투맨 레드",
+      "englishName": "APK MLB PIGMENT SWEAT RL63 NEYYAN RED",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263719.jpg"
+    },
+    {
+      "id": "11263718",
+      "code": "014002003757",
+      "name": "[키즈] (기모) MLB 뉴욕 양키스 피그먼트 스웨트 맨투맨 팀 네이비",
+      "englishName": "APK MLB PIGMENT SWEAT RL63 NEYYAN T NAV",
+      "price": 79000,
+      "type": "상의",
+      "image": "images/products/kids/11263718.jpg"
+    }
+  ]
+}

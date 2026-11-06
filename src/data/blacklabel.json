@@ -1,0 +1,88 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?xcode=082&mcode=004&type=Y",
+  "checkedAt": "2026-11-07",
+  "total": 9,
+  "products": [
+    {
+      "id": "11263704",
+      "code": "070001001203",
+      "name": "[블랙라벨] 스웨이드 집업 재킷 카키",
+      "englishName": "AP NEW ERA BLACK LABEL SUEDE FT63 KHA",
+      "price": 129000,
+      "type": "아우터",
+      "image": "images/products/blacklabel/11263704.jpg"
+    },
+    {
+      "id": "11261589",
+      "code": "070001001178",
+      "name": "[블랙라벨] 윈드 브레이커 재킷 블랙",
+      "englishName": "AP NEW ERA BLACK LABEL WDBRKER JK61 BLK",
+      "price": 159000,
+      "type": "아우터",
+      "image": "images/products/blacklabel/11261589.jpg"
+    },
+    {
+      "id": "11261588",
+      "code": "070001001177",
+      "name": "[블랙라벨] 윈드 브레이커 재킷 크림",
+      "englishName": "AP NEW ERA BLACK LABEL WDBRKER JK61 CRE",
+      "price": 159000,
+      "type": "아우터",
+      "image": "images/products/blacklabel/11261588.jpg"
+    },
+    {
+      "id": "11261366",
+      "code": "070006000877",
+      "name": "[블랙라벨] 베이직 팬츠 블랙",
+      "englishName": "AP NEW ERA BLACK LABEL PANTS PT61 BLK",
+      "price": 129000,
+      "type": "하의",
+      "image": "images/products/blacklabel/11261366.jpg"
+    },
+    {
+      "id": "11261365",
+      "code": "070006000876",
+      "name": "[블랙라벨] 베이직 팬츠 라이트 카키",
+      "englishName": "AP NEW ERA BLACK LABEL PANTS PT61 L KHA",
+      "price": 129000,
+      "type": "하의",
+      "image": "images/products/blacklabel/11261365.jpg"
+    },
+    {
+      "id": "11261170",
+      "code": "070001001170",
+      "name": "[블랙라벨] 다운 재킷 블랙",
+      "englishName": "AP NEW ERA BLACK LABEL DOWN DJ54 BLK",
+      "price": 429000,
+      "type": "아우터",
+      "image": "images/products/blacklabel/11261170.jpg"
+    },
+    {
+      "id": "11261169",
+      "code": "070001001169",
+      "name": "[블랙라벨] 다운 재킷 슬레이트 그린",
+      "englishName": "AP NEW ERA BLACK LABEL DOWN DJ54 S GRE",
+      "price": 429000,
+      "type": "아우터",
+      "image": "images/products/blacklabel/11261169.jpg"
+    },
+    {
+      "id": "11260741",
+      "code": "070003000863",
+      "name": "[블랙라벨] 카라드 맨투맨 블랙",
+      "englishName": "AP NEW ERA BLACK LABEL CLRD PL53 BLK",
+      "price": 129000,
+      "type": "맨투맨",
+      "image": "images/products/blacklabel/11260741.jpg"
+    },
+    {
+      "id": "11260740",
+      "code": "070003000862",
+      "name": "[블랙라벨] 카라드 맨투맨 다크 오트밀",
+      "englishName": "AP NEW ERA BLACK LABEL CLRD PL53 D OAT",
+      "price": 129000,
+      "type": "맨투맨",
+      "image": "images/products/blacklabel/11260740.jpg"
+    }
+  ]
+}

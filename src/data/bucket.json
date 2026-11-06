@@ -1,0 +1,97 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?xcode=031&type=N&mcode=002&scode=010",
+  "checkedAt": "2026-11-07",
+  "total": 10,
+  "products": [
+    {
+      "id": "11261259",
+      "code": "067002000501",
+      "name": "신세틱 레더 세일러 브림 버킷 햇 블랙",
+      "englishName": "BUCKET-01 SB SYNTHETIC LEATHER BLK",
+      "price": 59000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11261259.jpg"
+    },
+    {
+      "id": "11258627",
+      "code": "067002000446",
+      "name": "나일론 메탈 세일러 브림 버킷 햇 블랙",
+      "englishName": "BUCKET 01 SB METAL NYLON BLK",
+      "price": 59000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11258626.jpg"
+    },
+    {
+      "id": "11258626",
+      "code": "067002000445",
+      "name": "나일론 메탈 세일러 브림 버킷 햇 네이비",
+      "englishName": "BUCKET 01 SB METAL NYLON  NVY",
+      "price": 59000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11258626.jpg"
+    },
+    {
+      "id": "11255002",
+      "code": "067002000329",
+      "name": "나일론 메탈 세일러 브림 버킷 햇 더스티 그레이",
+      "englishName": "BUCKET 01 SB METAL NYLON DGRY",
+      "price": 59000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11255002.jpg"
+    },
+    {
+      "id": "11260715",
+      "code": "067002000495",
+      "name": "트로피컬 버킷 햇 네이비",
+      "englishName": "BUCKET-01 TROPICAL NVY",
+      "price": 65000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11260715.jpg"
+    },
+    {
+      "id": "11257760",
+      "code": "067002000416",
+      "name": "아웃도어 쉐이드 옥타 웜 기어 어드벤처 버킷 햇 블랙",
+      "englishName": "OD ADVLT SHADE OCTA WARM GEAR BLK",
+      "price": 99000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11257760.jpg"
+    },
+    {
+      "id": "11256738",
+      "code": "067002000398",
+      "name": "아웃도어 라벨 어드벤처 버킷 햇 리얼 트리 카모",
+      "englishName": "OD ADV REAL TREE LABEL CAMO",
+      "price": 65000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11256738.jpg"
+    },
+    {
+      "id": "11261149",
+      "code": "067002000499",
+      "name": "아웃도어 워터 리펠런트 이어 플랩 어드벤처 버킷 햇 블랙",
+      "englishName": "OD ADVLT DE WATER REPELLENT FU",
+      "price": 79000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11261149.jpg"
+    },
+    {
+      "id": "11260716",
+      "code": "067002000496",
+      "name": "트로피컬 버킷 햇 블랙",
+      "englishName": "BUCKET-01 TROPICAL BLK",
+      "price": 65000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11260716.jpg"
+    },
+    {
+      "id": "11260395",
+      "code": "067001000090",
+      "name": "아웃도어 프로라이트 와이드 익스플로러 버킷 햇 블랙",
+      "englishName": "OD EXP WIDE PROLITE BLK",
+      "price": 73000,
+      "type": "버킷 햇",
+      "image": "images/products/bucket/11260395.jpg"
+    }
+  ]
+}

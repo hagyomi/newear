@@ -9,6 +9,7 @@ const fits = [
   { name: 'BUCKET', node: '110:973', image: 'imgFrame43', description: ['양동이(BUCKET)을 쓴 것과 같은 실루엣', '둥근 챙으로 자외선 차단에 탁월'] },
   { name: 'JET CAP', node: '110:974', image: 'imgFrame44', description: ['편안한 피팅감의 클래식한 실루엣', '탁월한 땀 흡수력, 편안한 착용감'] },
 ];
+const fitRoutes = { '59FIFTY': '59fifty', '9FORTY': '9forty', '39THIRTY': '39thirty', 'K-FRAME': 'kframe', BUCKET: 'bucket', 'JET CAP': 'jetcap' };
 
 export default function Silhouette() {
   return <section className="silhouette section-flow" aria-labelledby="silhouette-title" data-node-id="110:965">
@@ -21,6 +22,7 @@ export default function Silhouette() {
           <h3 className="silhouette__name">{fit.name}</h3>
           <p className="silhouette__description">{fit.description.map((line, index) => <span key={line}>{index > 0 && <br />}{line}</span>)}</p>
           <img className="silhouette__image" src={`${import.meta.env.BASE_URL}images/figma/${fit.image}.png`} alt={fit.name + ' 실루엣'} width="330" height="339" loading="lazy" />
+          <a className="silhouette__link" href={`#/category/${fitRoutes[fit.name]}`} aria-label={`${fit.name} 모자 페이지 바로가기`}><span>바로가기 ↗</span></a>
         </article>)}
       </div>
     </div>

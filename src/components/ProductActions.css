@@ -1,0 +1,52 @@
+.product-actions {
+  margin-top: 18px;
+}
+
+.product-actions__buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.product-actions button {
+  min-height: 42px;
+  border: 1px solid #111;
+  background: #fff;
+  color: #111;
+  padding: 10px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+}
+
+.product-actions__cart {
+  flex: 1;
+}
+
+.product-actions__cart:hover {
+  background: #111;
+  color: #fff;
+}
+
+.product-actions__like {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+}
+
+.product-actions__like[aria-pressed=true] {
+  color: #c82235;
+}
+
+.product-actions__status {
+  min-height: 30px;
+  font-size: 12px;
+  line-height: 1.6;
+  margin-top: 8px;
+  color: #555;
+}
+
+.product-actions__status a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}

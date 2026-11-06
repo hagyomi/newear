@@ -1,6 +1,7 @@
 import Hero from '../components/Hero/Hero';
 import { useRef } from 'react';
 import { useForYouTransition } from '../components/ForYou/useForYouTransition';
+import { useAuthenticCircle } from '../components/ForYou/useAuthenticCircle';
 import ForYouMask from '../components/ForYou/ForYouMask';
 import History from '../components/History/History';
 import Silhouette from '../components/Silhouette/Silhouette';
@@ -17,11 +18,13 @@ const imgImage18 = `${import.meta.env.BASE_URL}images/figma/imgImage18.png`;
 const imgImgi1725Hw011 = `${import.meta.env.BASE_URL}images/figma/imgImgi1725Hw011.png`;
 const imgVector3 = `${import.meta.env.BASE_URL}images/figma/imgVector3.svg`;
 
-export default function Home() {
+export default function Home({ active = true }) {
     const transitionRef = useRef(null);
+    const authenticRef = useRef(null);
     useForYouTransition(transitionRef);
+    useAuthenticCircle(authenticRef);
     return (
-        <main id="main-content">
+        <main id={active ? 'main-content' : undefined}>
             <Hero />{' '}
             <div
                 className="attitude__layer-35 section-flow attitude"
@@ -83,7 +86,8 @@ export default function Home() {
             >
                 <img alt="" className="categories__layer-53" src={imgCon2} />
                 <div className="categories__layer-54" data-node-id="110:916" data-name="inner">
-                    <div className="categories__layer-55" data-node-id="110:917">
+                    <div className="categories__layer-55 category-card" data-node-id="110:917">
+                        <a className="category-card__link" href="#/category/headwear" aria-label="모자 바로가기"><span>바로가기 ↗</span></a>
                         <div className="categories__layer-56">
                             <div className="categories__layer-57">
                                 <img
@@ -94,7 +98,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                    <div className="categories__layer-59" data-node-id="110:919">
+                    <div className="categories__layer-59 category-card" data-node-id="110:919">
+                        <a className="category-card__link" href="#/category/apparel" aria-label="의류 바로가기"><span>바로가기 ↗</span></a>
                         <div className="categories__layer-60">
                             <div className="categories__layer-61">
                                 <div className="categories__layer-62">
@@ -107,7 +112,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                    <div className="categories__layer-64" data-node-id="110:921">
+                    <div className="categories__layer-64 category-card" data-node-id="110:921">
+                        <a className="category-card__link" href="#/category/accessories" aria-label="액세서리 바로가기"><span>바로가기 ↗</span></a>
                         <div className="categories__layer-65">
                             <div className="categories__layer-66">
                                 <div className="categories__layer-67">
@@ -120,7 +126,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                    <div className="categories__layer-69" data-node-id="110:923">
+                    <div className="categories__layer-69 category-card" data-node-id="110:923">
+                        <a className="category-card__link" href="#/category/kids" aria-label="키즈 바로가기"><span>바로가기 ↗</span></a>
                         <div className="categories__layer-70">
                             <div className="categories__layer-71">
                                 <div className="categories__layer-72">
@@ -133,7 +140,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                    <div className="categories__layer-74" data-node-id="110:925">
+                    <div className="categories__layer-74 category-card" data-node-id="110:925">
+                        <a className="category-card__link" href="#/category/blacklabel" aria-label="BlackLabel 바로가기"><span>바로가기 ↗</span></a>
                         <div className="categories__layer-75">
                             <div className="categories__layer-76">
                                 <div className="categories__layer-77">
@@ -176,7 +184,7 @@ export default function Home() {
             </div>
             </div>
             <History />{' '}
-            <div className="authentic__layer-144 section-flow authentic" data-node-id="110:956">
+            <div ref={authenticRef} className="authentic__layer-144 section-flow authentic" data-node-id="110:956">
                 <div className="authentic__layer-145" data-node-id="110:957" data-name="inner">
                     <p className="authentic__layer-146" data-node-id="110:958">
                         03
@@ -220,6 +228,7 @@ export default function Home() {
                             />
                         </div>
                     </div>
+                    <a className="authentic__link" href="#/category/authentic" aria-label="MLB AUTHENTIC COLLECTION 바로가기">바로가기 ↗</a>
                 </div>
             </div>
             <Silhouette />

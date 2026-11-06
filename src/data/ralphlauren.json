@@ -1,0 +1,79 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?type=O&xcode=267",
+  "checkedAt": "2026-11-07",
+  "total": 8,
+  "products": [
+    {
+      "id": "11263802",
+      "code": "267000000017",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 뉴욕 양키스 언스트럭쳐 볼캡 오픈 블루",
+      "englishName": "RL H261MLB05 25955 NEYYANCO  XBL",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/ralphlauren/11263802.jpg"
+    },
+    {
+      "id": "11263796",
+      "code": "267000000011",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 토론토 블루제이스 언스트럭쳐 볼캡 블루",
+      "englishName": "RL H261MLB05-T 25955 TORJAY  CAB",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/ralphlauren/11263796.jpg"
+    },
+    {
+      "id": "11263797",
+      "code": "267000000012",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 필라델피아 필리스 언스트럭쳐 볼캡 화이트",
+      "englishName": "RL H261MLB05-P 25955 PHIPHICO  WHI",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/ralphlauren/11263797.jpg"
+    },
+    {
+      "id": "11263798",
+      "code": "267000000013",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 보스턴 레드삭스 언스트럭쳐 볼캡 오픈 레드",
+      "englishName": "RL H261MLB05-B 25955 BOSRED  XRD",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/ralphlauren/11263798.jpg"
+    },
+    {
+      "id": "11263799",
+      "code": "267000000014",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 시카고 컵스 언스트럭쳐 볼캡 다크 블루",
+      "englishName": "RL H261MLB05-C 25955 CHICUBCO  DRY",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/ralphlauren/11263799.jpg"
+    },
+    {
+      "id": "11263800",
+      "code": "267000000015",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 LA 다저스 언스트럭쳐 볼캡 네이비",
+      "englishName": "RL H261MLB05-D 25955 LOSDOD  LNV",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/ralphlauren/11263800.jpg"
+    },
+    {
+      "id": "11263801",
+      "code": "267000000016",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 뉴욕 양키스 볼캡 화이트",
+      "englishName": "RL H261MLB05-Y 25955 NEYYANCO  WHI",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/ralphlauren/11263801.jpg"
+    },
+    {
+      "id": "11263803",
+      "code": "267000000018",
+      "name": "랄프 로렌 MLB 쿠퍼스타운 뉴욕 양키스 A프레임 트러커 볼캡 라이트 크림",
+      "englishName": "RL MLB06 32196 NEYYANCO  LTC",
+      "price": 159000,
+      "type": "볼캡",
+      "image": "images/products/kframe/11263803.jpg"
+    }
+  ]
+}

@@ -35,8 +35,9 @@ const position = (values, names) => Object.fromEntries(values.map((value, index)
 
 export default function HistoryHover({ year }) {
   const detail = details[year];
+  const background = year === 1920 ? 'imgFrame24' : year === 1930 ? 'imgFrame26' : year === 1940 ? 'history-hover-1940-background' : `history-${year}`;
   return <div className="history__hover" data-node-id={detail.node}>
-    <img className="history__hover-background" src={`${import.meta.env.BASE_URL}images/figma/history-hover-${year}-background.png`} alt="" loading="lazy" draggable="false" />
+    <img className="history__hover-background" src={`${import.meta.env.BASE_URL}images/figma/${background}.png`} alt="" loading="lazy" draggable="false" />
     <div className="history__hover-dim" />
     <div className="history__hover-circle" />
     <p className="history__hover-decade" aria-hidden="true">{year}’s</p>

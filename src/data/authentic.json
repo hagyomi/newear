@@ -1,0 +1,457 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?xcode=031&mcode=001&scode=001&type=Y",
+  "checkedAt": "2026-11-07",
+  "total": 50,
+  "products": [
+    {
+      "id": "11264192",
+      "code": "003007000014",
+      "name": "MLB 26 월드시리즈 챔피언 밀워키 브루어스 A프레임 피티드캡 블랙",
+      "englishName": "MLB26 WORLD SERIES CHMPS 5950A",
+      "price": 59000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264192.jpg"
+    },
+    {
+      "id": "11264189",
+      "code": "059003000036",
+      "name": "MLB 26 월드시리즈 챔피언 밀워키 브루어스 퍼레이드 A프레임 스냅백 크롬 화이트",
+      "englishName": "MLB26 PARADE 950 AF PRECURVE M",
+      "price": 59000,
+      "type": "스냅백",
+      "image": "images/products/authentic/11264189.jpg"
+    },
+    {
+      "id": "11264187",
+      "code": "003001003087",
+      "name": "MLB 26 월드 시리즈 밀워키 브루어스 피티드캡 얼트 옐로우",
+      "englishName": "ACPERF MILBRE ALT 2020 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264187.jpg"
+    },
+    {
+      "id": "11264186",
+      "code": "003001003086",
+      "name": "MLB 26 월드 시리즈 밀워키 브루어스 피티드캡 라이트 네이비",
+      "englishName": "ACPERF MILBRE HM 2020 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264186.jpg"
+    },
+    {
+      "id": "11264185",
+      "code": "003001003085",
+      "name": "MLB 26 월드 시리즈 탬파베이 레이스 피티드캡 얼트 라이트 네이비",
+      "englishName": "ACPERF TAMRAY ALT 2018 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264185.jpg"
+    },
+    {
+      "id": "11264184",
+      "code": "003001003084",
+      "name": "MLB 26 월드 시리즈 탬파베이 레이스 피티드캡 라이트 네이비",
+      "englishName": "ACPERF TAMRAY GM 2017 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264184.jpg"
+    },
+    {
+      "id": "11264034",
+      "code": "003001003050",
+      "name": "MLB 어센틱 시카고 화이트삭스 피티드캡 얼트 블랙",
+      "englishName": "ACPERF CHIWHI ALT 2025",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264034.jpg"
+    },
+    {
+      "id": "11264012",
+      "code": "003001003049",
+      "name": "MLB 26 포스트 시즌 애틀랜타 브레이브스 피티드캡 네이비 / 스칼렛",
+      "englishName": "ACPERF ATLBRA HM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264012.jpg"
+    },
+    {
+      "id": "11264011",
+      "code": "003001003048",
+      "name": "MLB 26 포스트 시즌 보스턴 레드삭스 피티드캡 네이비",
+      "englishName": "ACPERF BOSRED GM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264011.jpg"
+    },
+    {
+      "id": "11264010",
+      "code": "003001003047",
+      "name": "MLB 26 포스트 시즌 시카고 컵스 피티드캡 라이트 로얄",
+      "englishName": "ACPERF CHICUB GM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264010.jpg"
+    },
+    {
+      "id": "11264009",
+      "code": "003001003046",
+      "name": "MLB 26 포스트 시즌 시카고 화이트삭스 피티드캡 블랙",
+      "englishName": "ACPERF CHIWHI GM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264009.jpg"
+    },
+    {
+      "id": "11264008",
+      "code": "003001003045",
+      "name": "MLB 26 포스트 시즌 클리블랜드 가디언스 피티드캡 스칼렛",
+      "englishName": "ACPERF CLEGUA HM 2025 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264008.jpg"
+    },
+    {
+      "id": "11264007",
+      "code": "003001003044",
+      "name": "MLB 26 포스트 시즌 휴스턴 에스트로스 피티드캡 네이비",
+      "englishName": "ACPERF HOUAST HM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264007.jpg"
+    },
+    {
+      "id": "11264006",
+      "code": "003001003043",
+      "name": "MLB 26 포스트 시즌 LA 다저스 피티드캡 다크 로얄",
+      "englishName": "ACPERF LOSDOD GM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264006.jpg"
+    },
+    {
+      "id": "11264005",
+      "code": "003001003042",
+      "name": "MLB 26 포스트 시즌 밀워키 브루어스 피티드캡 라이트 네이비",
+      "englishName": "ACPERF MILBRE HM 2020 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264005.jpg"
+    },
+    {
+      "id": "11264004",
+      "code": "003001003041",
+      "name": "MLB 26 포스트 시즌 뉴욕 양키스 피티드캡 네이비",
+      "englishName": "ACPERF NEYYAN GM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264004.jpg"
+    },
+    {
+      "id": "11264003",
+      "code": "003001003040",
+      "name": "MLB 26 포스트 시즌 필라델피아 필리스 피티드캡 스칼렛",
+      "englishName": "ACPERF PHIPHI GM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264003.jpg"
+    },
+    {
+      "id": "11264002",
+      "code": "003001003039",
+      "name": "MLB 26 포스트 시즌 샌디에이고 파드리스 피티드캡 브라운",
+      "englishName": "ACPERF SADPAD GM 2020 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264002.jpg"
+    },
+    {
+      "id": "11264001",
+      "code": "003001003038",
+      "name": "MLB 26 포스트 시즌 탬파베이 레이스 피티드캡 라이트 네이비",
+      "englishName": "ACPERF TAMRAY GM 2017 PS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264001.jpg"
+    },
+    {
+      "id": "11260660",
+      "code": "070001001101",
+      "name": "MLB 뉴욕 양키스 어센틱 스타디움 재킷 네이비",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 NEYYAN D NAV",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260660.jpg"
+    },
+    {
+      "id": "11260672",
+      "code": "070001001113",
+      "name": "MLB 시카고 화이트삭스 어센틱 스타디움 재킷 블랙",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 CHIWHI BLK",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260672.jpg"
+    },
+    {
+      "id": "11260665",
+      "code": "070001001106",
+      "name": "MLB LA 다저스 어센틱 스타디움 재킷 블루",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 LOSDOD B BLU",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260665.jpg"
+    },
+    {
+      "id": "11260656",
+      "code": "070001001097",
+      "name": "MLB 샌디에이고 파드리스 어센틱 스타디움 재킷 브라운",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 SADPAD D BRO",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260656.jpg"
+    },
+    {
+      "id": "3365270",
+      "code": "003001001996",
+      "name": "MLB 어센틱 뉴욕 양키스 피티드캡 게임 네이비",
+      "englishName": "ACPERF NEYYAN GM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/fw26/3365270.jpg"
+    },
+    {
+      "id": "3365314",
+      "code": "003001002040",
+      "name": "MLB 어센틱 보스턴 레드삭스 피티드캡 게임 네이비",
+      "englishName": "ACPERF BOSRED GM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365314.jpg"
+    },
+    {
+      "id": "3365321",
+      "code": "003001002047",
+      "name": "MLB 어센틱 샌디에이고 파드리스 피티드캡 얼트 브라운",
+      "englishName": "ACPERF SADPAD ALT 2020",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365321.jpg"
+    },
+    {
+      "id": "3365274",
+      "code": "003001002000",
+      "name": "MLB 어센틱 LA 다저스 피티드캡 게임 다크 로얄",
+      "englishName": "ACPERF LOSDOD GM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365274.jpg"
+    },
+    {
+      "id": "3365330",
+      "code": "003001002056",
+      "name": "MLB 어센틱 밀워키 브루어스 피티드캡 홈 라이트 네이비",
+      "englishName": "ACPERF MILBRE HM 2020",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365330.jpg"
+    },
+    {
+      "id": "3365329",
+      "code": "003001002055",
+      "name": "MLB 어센틱 피츠버그 파이어리츠 피티드캡 얼트2",
+      "englishName": "ACPERF PITPIR ALT2 2020",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365329.jpg"
+    },
+    {
+      "id": "3365267",
+      "code": "003001001993",
+      "name": "MLB 어센틱 시애틀 매리너스 피티드캡 게임 네이비",
+      "englishName": "ACPERF SEAMAR GM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365267.jpg"
+    },
+    {
+      "id": "3365308",
+      "code": "003001002034",
+      "name": "MLB 어센틱 오클랜드 애슬레틱스 피티드캡 얼트",
+      "englishName": "ACPERF OAKATH ALT",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365308.jpg"
+    },
+    {
+      "id": "11260674",
+      "code": "070001001115",
+      "name": "MLB 보스턴 레드삭스 어센틱 스타디움 재킷 레드",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 BOSRED S RED",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260674.jpg"
+    },
+    {
+      "id": "3365313",
+      "code": "003001002039",
+      "name": "MLB 어센틱 토론토 블루제이스 피티드캡 게임 라이트 로얄",
+      "englishName": "ACPERF TORJAY GM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365313.jpg"
+    },
+    {
+      "id": "11260657",
+      "code": "070001001098",
+      "name": "MLB 피츠버그 파이어리츠 어센틱 스타디움 재킷 블랙",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 PITPIR BLK",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/authentic/11260657.jpg"
+    },
+    {
+      "id": "3365305",
+      "code": "003001002031",
+      "name": "MLB 어센틱 캔자스시티 로얄즈 피티드캡 게임 라이트 로얄",
+      "englishName": "ACPERF KANROY GM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365305.jpg"
+    },
+    {
+      "id": "11260666",
+      "code": "070001001107",
+      "name": "MLB 캔자스시티 로얄즈 어센틱 스타디움 재킷 블루",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 KANROY B BLU",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/authentic/11260666.jpg"
+    },
+    {
+      "id": "3365287",
+      "code": "003001002013",
+      "name": "MLB 어센틱 신시내티 레즈 피티드캡 홈 스칼렛",
+      "englishName": "ACPERF CINRED HM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365287.jpg"
+    },
+    {
+      "id": "3365325",
+      "code": "003001002051",
+      "name": "MLB 어센틱 샌디에이고 파드리스 피티드캡 게임 브라운",
+      "englishName": "ACPERF SADPAD GM 2020",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365325.jpg"
+    },
+    {
+      "id": "3365334",
+      "code": "003001002060",
+      "name": "MLB 어센틱 세인트루이스 카디널스 피티드캡 얼트",
+      "englishName": "ACPERF STLCAR ALT 2020",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365334.jpg"
+    },
+    {
+      "id": "11258408",
+      "code": "003001002437",
+      "name": "MLB 어센틱 미네소타 트윈스 피티드캡 홈 네이비",
+      "englishName": "ACPERF MINTWI HM 2023",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11258408.jpg"
+    },
+    {
+      "id": "3365297",
+      "code": "003001002023",
+      "name": "MLB 어센틱 필라델피아 필리스 피티드캡 게임 스칼렛",
+      "englishName": "ACPERF PHIPHI GM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365297.jpg"
+    },
+    {
+      "id": "3365262",
+      "code": "003001001988",
+      "name": "MLB 어센틱 볼티모어 오리올스 피티드캡 얼트 블랙",
+      "englishName": "ACPERF BALORI ALT",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365262.jpg"
+    },
+    {
+      "id": "11258410",
+      "code": "003001002439",
+      "name": "MLB 어센틱 클리블랜드 가디언스 피티드캡 홈 스칼렛",
+      "englishName": "ACPERF CLEGUA HM 2025",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11258410.jpg"
+    },
+    {
+      "id": "3365264",
+      "code": "003001001990",
+      "name": "MLB 어센틱 애틀랜타 브레이브스 피티드캡 홈 네이비 / 스칼렛",
+      "englishName": "ACPERF ATLBRA HM",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/3365264.jpg"
+    },
+    {
+      "id": "11260664",
+      "code": "070001001105",
+      "name": "MLB 마이애미 말린스 어센틱 스타디움 재킷 블랙",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 MIAMAR BLK",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/authentic/11260664.jpg"
+    },
+    {
+      "id": "11260655",
+      "code": "070001001096",
+      "name": "MLB 샌프란시스코 자이언츠 어센틱 스타디움 재킷 블랙",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 SAFGIA BLK",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260655.jpg"
+    },
+    {
+      "id": "11260671",
+      "code": "070001001112",
+      "name": "MLB 신시내티 레즈 어센틱 스타디움 재킷 레드",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 CINRED S RED",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260671.jpg"
+    },
+    {
+      "id": "11260659",
+      "code": "070001001100",
+      "name": "MLB 오클랜드 애슬레틱스 어센틱 스타디움 재킷 그린",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 OAKATH F GRE",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260659.jpg"
+    },
+    {
+      "id": "11260652",
+      "code": "070001001093",
+      "name": "MLB 탬파베이 레이스 어센틱 스타디움 재킷 블루",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 TAMRAY A BLU",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260652.jpg"
+    },
+    {
+      "id": "11260651",
+      "code": "070001001092",
+      "name": "MLB 텍사스 레인저스 어센틱 스타디움 재킷 블루",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 TEXRAN B BLU",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260651.jpg"
+    }
+  ]
+}

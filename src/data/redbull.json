@@ -1,0 +1,70 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?type=O&xcode=278",
+  "checkedAt": "2026-11-07",
+  "total": 7,
+  "products": [
+    {
+      "id": "11264091",
+      "code": "278000000015",
+      "name": "오라클 레드불 레이싱 볼캡 그라파이트",
+      "englishName": "940 ORBR GRAPHITE",
+      "price": 49000,
+      "type": "모자",
+      "image": "images/products/nineforty/11264091.jpg"
+    },
+    {
+      "id": "11264092",
+      "code": "278000000009",
+      "name": "오라클 레드불 레이싱 볼캡 네이비",
+      "englishName": "940 ORBR NAVY",
+      "price": 49000,
+      "type": "모자",
+      "image": "images/products/nineforty/11264092.jpg"
+    },
+    {
+      "id": "11264093",
+      "code": "278000000010",
+      "name": "(기모) 오라클 레드불 레이싱 후드 집업 헤더 그레이",
+      "englishName": "AP ORBR HOOD ZIP UP FT63 HGRY",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11264093.jpg"
+    },
+    {
+      "id": "11264094",
+      "code": "278000000011",
+      "name": "(기모) 오라클 레드불 레이싱 후드 집업 네이비",
+      "englishName": "AP ORBR HOOD ZIP UP FT63 NAV",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11264094.jpg"
+    },
+    {
+      "id": "11264095",
+      "code": "278000000012",
+      "name": "(기모) 오라클 레드불 레이싱 후드 집업 브라운",
+      "englishName": "AP ORBR HOOD ZIP UP FT63 BRO",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11264095.jpg"
+    },
+    {
+      "id": "11264096",
+      "code": "278000000013",
+      "name": "(기모) 오라클 레드불 레이싱 후드 네이비",
+      "englishName": "AP ORBR HOODIE HD63 NAV",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11264096.jpg"
+    },
+    {
+      "id": "11264097",
+      "code": "278000000014",
+      "name": "(기모) 오라클 레드불 레이싱 후드 헤더 그레이",
+      "englishName": "AP ORBR HOODIE HD63 HGRY",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11264097.jpg"
+    }
+  ]
+}

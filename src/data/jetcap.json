@@ -1,0 +1,52 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?xcode=031&type=N&mcode=002&scode=003",
+  "checkedAt": "2026-11-07",
+  "total": 5,
+  "products": [
+    {
+      "id": "11263337",
+      "code": "064001000468",
+      "name": "뉴에라 워시드 페이즐리 데님 캠퍼 데님 페이즐리",
+      "englishName": "CAMPER WASHED PAISLEY DNM NE D PAI",
+      "price": 53000,
+      "type": "제트캡",
+      "image": "images/products/jetcap/11263337.jpg"
+    },
+    {
+      "id": "11255959",
+      "code": "064001000396",
+      "name": "에센셜 무지 제트캡 블랙",
+      "englishName": "CAMPER ESSENTIAL C1 BLK",
+      "price": 43000,
+      "type": "제트캡",
+      "image": "images/products/jetcap/11255959.jpg"
+    },
+    {
+      "id": "11260393",
+      "code": "064001000462",
+      "name": "아웃도어 고어텍스 토포그래픽 서페이스 제트캡 블랙",
+      "englishName": "OD JET GTX TOPOSURF BLK",
+      "price": 73000,
+      "type": "제트캡",
+      "image": "images/products/jetcap/11260393.jpg"
+    },
+    {
+      "id": "11260056",
+      "code": "064001000460",
+      "name": "아웃도어 플래시 제트캡 블랙 리플렉티브",
+      "englishName": "OD JET FLASH BLK REF",
+      "price": 59000,
+      "type": "제트캡",
+      "image": "images/products/jetcap/11260056.jpg"
+    },
+    {
+      "id": "11259185",
+      "code": "064001000444",
+      "name": "고어텍스 시리즈 제트캡 블랙",
+      "englishName": "CAMPER GORETEX SERIES  BLK",
+      "price": 79000,
+      "type": "제트캡",
+      "image": "images/products/jetcap/11259185.jpg"
+    }
+  ]
+}

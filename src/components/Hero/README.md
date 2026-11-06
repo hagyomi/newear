@@ -2,7 +2,7 @@
 
 사용자가 제공한 투명 PNG 9장을 `public/images/banners/polaroids/`에 바이트 변경 없이 복사했다. 파일명의 밑줄만 하이픈으로 변경했다. 원본 출처는 사용자 첨부 `newera_9_polaroids_transparent/01_brown_cap.png`부터 `09_denim_pants.png`까지이며 제품·로고·색상·텍스트·비율을 편집하지 않았다.
 
-배치 기준은 [Figma 메인](https://www.figma.com/design/SdB8jlIU73d8d5oC4sBaB4/?node-id=110-884)의 기존 `/images/figma/img017E708A4195493C8A7D19Bbca3B6C9D1.png`와 `/images/figma/imgVisual.png`다. 기존 합성 PNG는 참조용으로 보존하고 화면에는 개별 카드 9장을 한 번씩 렌더링한다. 시작 겹침 위치·각도·순서는 `polaroids.js`에서 관리한다. 제공된 정사각형에 가까운 카드의 비율을 유지하므로 Hero 합성본의 원근과 카드 형태를 픽셀 단위로 동일하게 재현하는 구성은 아니다.
+배치 기준은 [Figma 메인](https://www.figma.com/design/SdB8jlIU73d8d5oC4sBaB4/?node-id=110-884)의 기존 합성 이미지와 `/images/figma/imgVisual.png`다. 사용하지 않는 합성 PNG `img017E708A4195493C8A7D19Bbca3B6C9D1.png`는 `.tools/unused-assets/public/images/figma/`에 참조용으로 보관하며 배포 폴더에는 포함하지 않는다. 화면에는 개별 카드 9장을 한 번씩 렌더링한다. 시작 겹침 위치·각도·순서는 `polaroids.js`에서 관리한다. 제공된 정사각형에 가까운 카드의 비율을 유지하므로 Hero 합성본의 원근과 카드 형태를 픽셀 단위로 동일하게 재현하는 구성은 아니다.
 
 `usePolaroidScroll.js`가 GSAP ScrollTrigger의 `pin`과 `scrub: true`를 연결한다. 각 카드가 시작 좌표에서 Visual의 3×3 좌표로 이동하며 회전이 0도가 된다. 타이틀과 카피는 내용·스타일을 유지하고 펼쳐지는 동안 위로 이동한다. 페이드나 합성 이미지 교체는 사용하지 않는다. 완료 후 그리드를 잠시 유지하고 pin을 해제하며 역스크롤은 같은 타임라인을 되감는다. pin 간격 때문에 전체 문서의 스크롤 길이는 늘어난다.
 

@@ -1,0 +1,457 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?xcode=031&mcode=004&type=Y",
+  "checkedAt": "2026-11-07",
+  "total": 50,
+  "products": [
+    {
+      "id": "11264209",
+      "code": "070001001232",
+      "name": "MLB 뉴욕 양키스 라이트웨이트 다운 재킷 블랙",
+      "englishName": "AP MLB LIGHTWEIGHT DOWN DJ64 NEYYAN BLK",
+      "price": 279000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264209.jpg"
+    },
+    {
+      "id": "11264207",
+      "code": "070001001230",
+      "name": "MLB 뉴욕 양키스 라이트웨이트 다운 재킷 그레이",
+      "englishName": "AP MLB LIGHTWEIGHT DOWN DJ64 NEYYAN GRE",
+      "price": 279000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264207.jpg"
+    },
+    {
+      "id": "11264097",
+      "code": "278000000014",
+      "name": "(기모) 오라클 레드불 레이싱 후드 헤더 그레이",
+      "englishName": "AP ORBR HOODIE HD63 HGRY",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11264097.jpg"
+    },
+    {
+      "id": "11264096",
+      "code": "278000000013",
+      "name": "(기모) 오라클 레드불 레이싱 후드 네이비",
+      "englishName": "AP ORBR HOODIE HD63 NAV",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11264096.jpg"
+    },
+    {
+      "id": "11264095",
+      "code": "278000000012",
+      "name": "(기모) 오라클 레드불 레이싱 후드 집업 브라운",
+      "englishName": "AP ORBR HOOD ZIP UP FT63 BRO",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11264095.jpg"
+    },
+    {
+      "id": "11264094",
+      "code": "278000000011",
+      "name": "(기모) 오라클 레드불 레이싱 후드 집업 네이비",
+      "englishName": "AP ORBR HOOD ZIP UP FT63 NAV",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11264094.jpg"
+    },
+    {
+      "id": "11264093",
+      "code": "278000000010",
+      "name": "(기모) 오라클 레드불 레이싱 후드 집업 헤더 그레이",
+      "englishName": "AP ORBR HOOD ZIP UP FT63 HGRY",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11264093.jpg"
+    },
+    {
+      "id": "11264090",
+      "code": "070001001229",
+      "name": "패디드 유틸리티 라이트 재킷 블랙",
+      "englishName": "AP PADDED UTILITY LIGHT JK64 BLK",
+      "price": 239000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264090.jpg"
+    },
+    {
+      "id": "11264089",
+      "code": "070001001228",
+      "name": "패디드 유틸리티 라이트 재킷 라이트 카키",
+      "englishName": "AP PADDED UTILITY LIGHT JK64 L KHA",
+      "price": 239000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264089.jpg"
+    },
+    {
+      "id": "11264053",
+      "code": "070001001227",
+      "name": "MLB 뉴욕 양키스 헤링본 코치 재킷 베이지",
+      "englishName": "AP HERRINGBONE COACH JK64 NEYYAN BEI",
+      "price": 279000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264053.jpg"
+    },
+    {
+      "id": "11264052",
+      "code": "070001001226",
+      "name": "MLB 뉴욕 양키스 헤링본 코치 재킷 블랙",
+      "englishName": "AP HERRINGBONE COACH JK64 NEYYAN BLK",
+      "price": 279000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264052.jpg"
+    },
+    {
+      "id": "11264051",
+      "code": "070001001225",
+      "name": "퍼 후드 봄버 재킷 블랙",
+      "englishName": "AP FUR HOOD BOMBER JK64 BLK",
+      "price": 279000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264051.jpg"
+    },
+    {
+      "id": "11264050",
+      "code": "070001001224",
+      "name": "퍼 후드 봄버 재킷 그레이",
+      "englishName": "AP FUR HOOD BOMBER JK64 GRE",
+      "price": 279000,
+      "type": "아우터",
+      "image": "images/products/apparel/11264050.jpg"
+    },
+    {
+      "id": "11264033",
+      "code": "070003000931",
+      "name": "MLB 쿠퍼스타운 뉴욕 양키스 월드 시리즈 맨투맨 블랙",
+      "englishName": "AP MLB WORLD SERIES RL63 NEYYANCO BLK",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11264033.jpg"
+    },
+    {
+      "id": "11264032",
+      "code": "070003000930",
+      "name": "MLB 쿠퍼스타운 뉴욕 양키스 월드 시리즈 맨투맨 헤더 그레이",
+      "englishName": "AP MLB WORLD SERIES RL63 NEYYANCO HGRY",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11264032.jpg"
+    },
+    {
+      "id": "11264031",
+      "code": "070003000929",
+      "name": "MLB 쿠퍼스타운 뉴욕 양키스 월드 시리즈 맨투맨 팀 네이비",
+      "englishName": "AP MLB WORLD SERIES RL63 NEYYANCO T NAV",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11264031.jpg"
+    },
+    {
+      "id": "11264030",
+      "code": "070004001092",
+      "name": "(기모) MLB 뉴욕 양키스 팀 플래그 후드 다크 와인",
+      "englishName": "AP MLB TEAM FLAG HD63 NEYYAN D WIN",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11264030.jpg"
+    },
+    {
+      "id": "11264029",
+      "code": "070004001091",
+      "name": "(기모) MLB 뉴욕 양키스 팀 플래그 후드 팀 네이비",
+      "englishName": "AP MLB TEAM FLAG HD63 NEYYAN T NAV",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11264029.jpg"
+    },
+    {
+      "id": "11264028",
+      "code": "070004001090",
+      "name": "(기모) MLB 뉴욕 양키스 팀 플래그 후드 헤더 그레이",
+      "englishName": "AP MLB TEAM FLAG HD63 NEYYAN HGRY",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11264028.jpg"
+    },
+    {
+      "id": "11264027",
+      "code": "070003000928",
+      "name": "(기모) MLB LA 다저스 피그먼트 스웨트 맨투맨 차콜",
+      "englishName": "AP MLB PIGMENT SWEAT RL63 LOSDOD CHA",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11264027.jpg"
+    },
+    {
+      "id": "11264022",
+      "code": "070003000923",
+      "name": "(기모) MLB LA 다저스 피그먼트 스웨트 맨투맨 스틸 스카이",
+      "englishName": "AP MLB PIGMENT SWEAT RL63 LOSDOD S SKY",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11264022.jpg"
+    },
+    {
+      "id": "11264019",
+      "code": "070003000920",
+      "name": "(기모) MLB 뉴욕 양키스 피그먼트 스웨트 맨투맨 팀 네이비",
+      "englishName": "AP MLB PIGMENT SWEAT RL63 NEYYAN T NAV",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11264019.jpg"
+    },
+    {
+      "id": "11264015",
+      "code": "070003000916",
+      "name": "(기모) MLB 뉴욕 양키스 피그먼트 스웨트 맨투맨 레드",
+      "englishName": "AP MLB PIGMENT SWEAT RL63 NEYYAN RED",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11264015.jpg"
+    },
+    {
+      "id": "11260805",
+      "code": "224000000020",
+      "name": "오라클 레드불 레이싱 트랙 재킷 라이트 그레이",
+      "englishName": "AP ORACLE RED BULL RACING TRK JK53 L GRY",
+      "price": 219000,
+      "type": "아우터",
+      "image": "images/products/apparel/11260805.jpg"
+    },
+    {
+      "id": "11263773",
+      "code": "070001001204",
+      "name": "MLB 뉴욕 양키스 코듀로이 스타디움 재킷 코퍼",
+      "englishName": "AP MLB CORD STADIUM JK63 NEYYAN COP",
+      "price": 239000,
+      "type": "아우터",
+      "image": "images/products/fw26/11263773.jpg"
+    },
+    {
+      "id": "11263777",
+      "code": "070001001208",
+      "name": "MLB 샌디에이고 파드리스 코듀로이 스타디움 재킷 브라운",
+      "englishName": "AP MLB CORD STADIUM JK63 SADPAD BRO",
+      "price": 239000,
+      "type": "아우터",
+      "image": "images/products/fw26/11263777.jpg"
+    },
+    {
+      "id": "11263776",
+      "code": "070001001207",
+      "name": "MLB LA 다저스 코듀로이 스타디움 재킷 네이비",
+      "englishName": "AP MLB CORD STADIUM JK63 LOSDOD NAV",
+      "price": 239000,
+      "type": "아우터",
+      "image": "images/products/fw26/11263776.jpg"
+    },
+    {
+      "id": "11263775",
+      "code": "070001001206",
+      "name": "MLB 뉴욕 양키스 코듀로이 스타디움 재킷 블랙",
+      "englishName": "AP MLB CORD STADIUM JK63 NEYYAN BLK",
+      "price": 239000,
+      "type": "아우터",
+      "image": "images/products/fw26/11263775.jpg"
+    },
+    {
+      "id": "11263774",
+      "code": "070001001205",
+      "name": "MLB 뉴욕 양키스 코듀로이 스타디움 재킷 올리브 그린",
+      "englishName": "AP MLB CORD STADIUM JK63 NEYYAN O GRE",
+      "price": 239000,
+      "type": "아우터",
+      "image": "images/products/fw26/11263774.jpg"
+    },
+    {
+      "id": "11260665",
+      "code": "070001001106",
+      "name": "MLB LA 다저스 어센틱 스타디움 재킷 블루",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 LOSDOD B BLU",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260665.jpg"
+    },
+    {
+      "id": "11260672",
+      "code": "070001001113",
+      "name": "MLB 시카고 화이트삭스 어센틱 스타디움 재킷 블랙",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 CHIWHI BLK",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260672.jpg"
+    },
+    {
+      "id": "11260660",
+      "code": "070001001101",
+      "name": "MLB 뉴욕 양키스 어센틱 스타디움 재킷 네이비",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 NEYYAN D NAV",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260660.jpg"
+    },
+    {
+      "id": "11260656",
+      "code": "070001001097",
+      "name": "MLB 샌디에이고 파드리스 어센틱 스타디움 재킷 브라운",
+      "englishName": "AP MLB ATHNTC STADIUM JK53 SADPAD D BRO",
+      "price": 199000,
+      "type": "아우터",
+      "image": "images/products/fw26/11260656.jpg"
+    },
+    {
+      "id": "11263847",
+      "code": "070005003656",
+      "name": "[블랙라벨] 카라 스웨트셔츠 다크 헤더 그레이",
+      "englishName": "AP NEW ERA BLACK LABEL CLLRD RL63 D HGRY",
+      "price": 129000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11263847.jpg"
+    },
+    {
+      "id": "11263846",
+      "code": "070005003655",
+      "name": "[블랙라벨] 카라 스웨트셔츠 다크 오트밀",
+      "englishName": "AP NEW ERA BLACK LABEL CLLRD RL63 D OAT",
+      "price": 129000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11263846.jpg"
+    },
+    {
+      "id": "11263845",
+      "code": "070004001089",
+      "name": "(기모) NFL 라스베이거스 레이더스 후드 집업 블랙",
+      "englishName": "AP NFL TEAM HD ZIP UP FT63 LASRAI BLK",
+      "price": 149000,
+      "type": "후드",
+      "image": "images/products/apparel/11263845.jpg"
+    },
+    {
+      "id": "11263844",
+      "code": "070004001088",
+      "name": "(기모) NFL 뉴욕 자이언츠 후드 집업 팀 네이비",
+      "englishName": "AP NFL TEAM HD ZIP UP FT63 NEYGIA T NAV",
+      "price": 149000,
+      "type": "후드",
+      "image": "images/products/apparel/11263844.jpg"
+    },
+    {
+      "id": "11263843",
+      "code": "070004001087",
+      "name": "MLB 쿠퍼스 타운 뉴욕 양키스 1921 월드 시리즈 후드 집업 올리브 그린",
+      "englishName": "AP MLB 1921 WRD SRS FT63 NEYYANCO O GRE",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11263843.jpg"
+    },
+    {
+      "id": "11263842",
+      "code": "070004001086",
+      "name": "MLB 쿠퍼스 타운 뉴욕 양키스 1921 월드 시리즈 후드 집업 블루",
+      "englishName": "AP MLB 1921 WRD SRS FT63 NEYYANCO G BLU",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11263842.jpg"
+    },
+    {
+      "id": "11263841",
+      "code": "070004001085",
+      "name": "MLB 쿠퍼스 타운 뉴욕 양키스 1921 월드 시리즈 후드 집업 블랙",
+      "englishName": "AP MLB 1921 WRD SRS FT63 NEYYANCO BLK",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/apparel/11263841.jpg"
+    },
+    {
+      "id": "11263835",
+      "code": "070004001083",
+      "name": "(기모) MLB 뉴욕 양키스 올드 잉글리시 빈티지 후드 집업 차콜",
+      "englishName": "AP MLB OLD ENGLISH VNTG FT63 NEYYAN CHA",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/fw26/11263835.jpg"
+    },
+    {
+      "id": "11263834",
+      "code": "070004001082",
+      "name": "(기모) MLB 뉴욕 양키스 올드 잉글리시 빈티지 후드 집업 스틸 스카이",
+      "englishName": "AP MLB OLD ENGLISH VNTG FT63 NEYYAN SSKY",
+      "price": 139000,
+      "type": "후드",
+      "image": "images/products/fw26/11263834.jpg"
+    },
+    {
+      "id": "11263833",
+      "code": "070003000915",
+      "name": "스트라이프 스웨터 다크 그레이",
+      "englishName": "AP STRIPE SWEATER SW64 D GRE",
+      "price": 149000,
+      "type": "니트",
+      "image": "images/products/apparel/11263833.jpg"
+    },
+    {
+      "id": "11263832",
+      "code": "070003000914",
+      "name": "스트라이프 스웨터 카키",
+      "englishName": "AP STRIPE SWEATER SW64 KHA",
+      "price": 149000,
+      "type": "니트",
+      "image": "images/products/apparel/11263832.jpg"
+    },
+    {
+      "id": "11263827",
+      "code": "070001001210",
+      "name": "(기모) 피그먼트 스웨트 집업 다크 올리브",
+      "englishName": "AP PIGMENT SWEAT ZIP UP FT63 D OLI",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11263827.jpg"
+    },
+    {
+      "id": "11263826",
+      "code": "070001001209",
+      "name": "(기모) 피그먼트 스웨트 집업 차콜",
+      "englishName": "AP PIGMENT SWEAT ZIP UP FT63 CHA",
+      "price": 129000,
+      "type": "후드",
+      "image": "images/products/apparel/11263826.jpg"
+    },
+    {
+      "id": "11263831",
+      "code": "070006000951",
+      "name": "스웨트 데님 카고 팬츠 블랙",
+      "englishName": "AP SWEAT DENIM CARGO PANTS FP63 BLK",
+      "price": 139000,
+      "type": "하의",
+      "image": "images/products/fw26/11263831.jpg"
+    },
+    {
+      "id": "11263830",
+      "code": "070006000950",
+      "name": "스웨트 데님 카고 팬츠 인디고",
+      "englishName": "AP SWEAT DENIM CARGO PANTS FP63 IND",
+      "price": 139000,
+      "type": "하의",
+      "image": "images/products/fw26/11263830.jpg"
+    },
+    {
+      "id": "11263829",
+      "code": "070003000913",
+      "name": "오리지네이터스 니티드 크루넥 팀 블랙",
+      "englishName": "AP ORIGINATORS KNITTED RL63 BLK",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11263829.jpg"
+    },
+    {
+      "id": "11263828",
+      "code": "070003000912",
+      "name": "오리지네이터스 니티드 크루넥 팀 네이비",
+      "englishName": "AP ORIGINATORS KNITTED RL63 T NAV",
+      "price": 119000,
+      "type": "맨투맨",
+      "image": "images/products/apparel/11263828.jpg"
+    }
+  ]
+}

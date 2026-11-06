@@ -1,0 +1,457 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?xcode=019&mcode=006&type=Y",
+  "checkedAt": "2026-11-07",
+  "total": 50,
+  "products": [
+    {
+      "id": "11260104",
+      "code": "036008000023",
+      "name": "2팩 캡 캐리어 블랙",
+      "englishName": "ACC 2PACK CAP CARRIER 25 BLK",
+      "price": 36000,
+      "type": "캡 용품",
+      "image": "images/products/accessories/11260104.jpg"
+    },
+    {
+      "id": "11260103",
+      "code": "036008000022",
+      "name": "6팩 캡 캐리어 블랙",
+      "englishName": "ACC 6PACK CAP CARRIER 25 BLK",
+      "price": 49000,
+      "type": "캡 용품",
+      "image": "images/products/accessories/11260103.jpg"
+    },
+    {
+      "id": "11263131",
+      "code": "004001000846",
+      "name": "MLB LA 다저스 캡 키 홀더 다크 로얄 스트라이프",
+      "englishName": "ACC CAP KEY HOLDER  LOSDOD DROY STR",
+      "price": 29000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263131.jpg"
+    },
+    {
+      "id": "11263127",
+      "code": "004001000842",
+      "name": "MLB 뉴욕 양키스 캡 키 홀더 화이트 스트라이프",
+      "englishName": "ACC CAP KEY HOLDER  NEYYAN WHI STR",
+      "price": 29000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263127.jpg"
+    },
+    {
+      "id": "11263109",
+      "code": "004001000834",
+      "name": "포켓몬 피카츄 캡 파우치 키 홀더 옐로우",
+      "englishName": "ACC CAP POUCH KEY HOLDER POKEMON  O YEL",
+      "price": 43000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263109.jpg"
+    },
+    {
+      "id": "11263137",
+      "code": "004001000852",
+      "name": "MLB LA 다저스 캡 파우치 모바일 백 블랙",
+      "englishName": "ACC CAP POUCH M  LOSDOD BLK",
+      "price": 59000,
+      "type": "가방",
+      "image": "images/products/accessories/11263137.jpg"
+    },
+    {
+      "id": "11263136",
+      "code": "004001000851",
+      "name": "MLB 뉴욕 양키스 캡 파우치 모바일 백 네이비",
+      "englishName": "ACC CAP POUCH M  NEYYAN NVY",
+      "price": 59000,
+      "type": "가방",
+      "image": "images/products/accessories/11263136.jpg"
+    },
+    {
+      "id": "11263135",
+      "code": "004001000850",
+      "name": "MLB 샌디에이고 파드리스 캡 파우치 모바일 백 번트 우드",
+      "englishName": "ACC CAP POUCH M  SADPAD B WOO",
+      "price": 59000,
+      "type": "가방",
+      "image": "images/products/accessories/11263135.jpg"
+    },
+    {
+      "id": "11263132",
+      "code": "004001000847",
+      "name": "MLB 보스턴 레드삭스 캡 파우치 모바일 백 스칼렛",
+      "englishName": "ACC CAP POUCH M  BOSRED SCA",
+      "price": 59000,
+      "type": "양말",
+      "image": "images/products/accessories/11263132.jpg"
+    },
+    {
+      "id": "11263126",
+      "code": "004001000841",
+      "name": "MLB LA 다저스 캡 파우치 키 홀더 다크 로얄 스트라이프",
+      "englishName": "ACC CAP POUCH KEY HOLDER LOSDOD DROY STR",
+      "price": 43000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263126.jpg"
+    },
+    {
+      "id": "11263125",
+      "code": "004001000840",
+      "name": "MLB 뉴욕 양키스 캡 파우치 키 홀더 옵틱 화이트 스트라이프",
+      "englishName": "ACC CAP POUCH KEY HOLDER NEYYAN WHI STR",
+      "price": 43000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263125.jpg"
+    },
+    {
+      "id": "11263124",
+      "code": "004001000839",
+      "name": "MLB LA 다저스 캡 파우치 키 홀더 다크 로얄",
+      "englishName": "ACC CAP POUCH KEY HOLDER 26 LOSDOD D ROY",
+      "price": 43000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263124.jpg"
+    },
+    {
+      "id": "11263120",
+      "code": "004001000835",
+      "name": "MLB 뉴욕 양키스 캡 파우치 키 홀더 네이비",
+      "englishName": "ACC CAP POUCH KEY HOLDER 26 NEYYAN NVY",
+      "price": 43000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263120.jpg"
+    },
+    {
+      "id": "11263558",
+      "code": "268000000006",
+      "name": "팀버랜드 MLB 시카고 화이트삭스 6인치 워터프루프 부츠",
+      "englishName": "TIMBERLAND BOOTS NEYYAN WHEAT",
+      "price": 398000,
+      "type": "신발",
+      "image": "images/products/fw26/11263558.jpg"
+    },
+    {
+      "id": "11263557",
+      "code": "268000000005",
+      "name": "팀버랜드 MLB LA 다저스 6인치 워터프루프 부츠",
+      "englishName": "TIMBERLAND BOOTS LOSDOD WHEAT",
+      "price": 398000,
+      "type": "신발",
+      "image": "images/products/fw26/11263557.jpg"
+    },
+    {
+      "id": "11263556",
+      "code": "268000000004",
+      "name": "팀버랜드 MLB 뉴욕 양키스 6인치 워터프루프 부츠",
+      "englishName": "TIMBERLAND BOOTS NEYYAN WHEAT",
+      "price": 398000,
+      "type": "신발",
+      "image": "images/products/fw26/11263556.jpg"
+    },
+    {
+      "id": "11263369",
+      "code": "257000000020",
+      "name": "산리오 헬로 키티 캡 키 홀더 퐁당 핑크",
+      "englishName": "ACC CAP KEY HOLDER KITTY  F PNK",
+      "price": 29000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263369.jpg"
+    },
+    {
+      "id": "11263368",
+      "code": "257000000019",
+      "name": "산리오 헬로 키티 캡 키 홀더 블랙",
+      "englishName": "ACC CAP KEY HOLDER KITTY  BLK",
+      "price": 29000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263368.jpg"
+    },
+    {
+      "id": "11263367",
+      "code": "257000000018",
+      "name": "산리오 헬로 키티 캡 파우치 키 홀더 블랙",
+      "englishName": "ACC CAP POUCH KEY HOLDER KITTY  BLK",
+      "price": 43000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263367.jpg"
+    },
+    {
+      "id": "11263366",
+      "code": "257000000017",
+      "name": "산리오 헬로 키티 캡 파우치 키 홀더 스칼렛",
+      "englishName": "ACC CAP POUCH KEY HOLDER KITTY  SCA",
+      "price": 43000,
+      "type": "키홀더",
+      "image": "images/products/accessories/11263366.jpg"
+    },
+    {
+      "id": "11263391",
+      "code": "004001000872",
+      "name": "뉴에라 블록코어 크루 삭스 1팩 블랙",
+      "englishName": "BLOKE CORE CREW SOCKS 1P NE BLK",
+      "price": 9900,
+      "type": "양말",
+      "image": "images/products/accessories/11263391.jpg"
+    },
+    {
+      "id": "11263390",
+      "code": "004001000871",
+      "name": "뉴에라 블록코어 크루 삭스 1팩 네이비",
+      "englishName": "BLOKE CORE CREW SOCKS 1P NE NVY",
+      "price": 9900,
+      "type": "양말",
+      "image": "images/products/accessories/11263390.jpg"
+    },
+    {
+      "id": "11263389",
+      "code": "004001000870",
+      "name": "뉴에라 블록코어 크루 삭스 1팩 화이트",
+      "englishName": "BLOKE CORE CREW SOCKS 1P NE O WHI",
+      "price": 9900,
+      "type": "양말",
+      "image": "images/products/accessories/11263389.jpg"
+    },
+    {
+      "id": "11263388",
+      "code": "004001000869",
+      "name": "뉴에라 블록코어 크루 삭스 1팩 레드",
+      "englishName": "BLOKE CORE CREW SOCKS 1P NE RED",
+      "price": 9900,
+      "type": "양말",
+      "image": "images/products/accessories/11263388.jpg"
+    },
+    {
+      "id": "11263387",
+      "code": "004001000868",
+      "name": "오리지네이터스 로고 크루 삭스 3팩 멀티",
+      "englishName": "ORIGINATORS LOGO CREW SOCKS 3P NE MULTI",
+      "price": 22000,
+      "type": "양말",
+      "image": "images/products/accessories/11263387.jpg"
+    },
+    {
+      "id": "11263386",
+      "code": "004001000867",
+      "name": "라운드 로고 크루 삭스 2팩 멀티",
+      "englishName": "ROUND LOGO CREW SOCKS 2P NE MULTI",
+      "price": 18000,
+      "type": "양말",
+      "image": "images/products/accessories/11263386.jpg"
+    },
+    {
+      "id": "11263145",
+      "code": "004001000860",
+      "name": "뉴에라 캡 클립 우드랜드",
+      "englishName": "ACC CAP CLIP NE W CAM",
+      "price": 9900,
+      "type": "캡 용품",
+      "image": "images/products/accessories/11263145.jpg"
+    },
+    {
+      "id": "11263144",
+      "code": "004001000859",
+      "name": "뉴에라 캡 클립 레오파드",
+      "englishName": "ACC CAP CLIP NE LEO",
+      "price": 9900,
+      "type": "캡 용품",
+      "image": "images/products/accessories/11263144.jpg"
+    },
+    {
+      "id": "11263143",
+      "code": "004001000858",
+      "name": "뉴에라 캡 클립 핑크",
+      "englishName": "ACC CAP CLIP NE PNK",
+      "price": 9900,
+      "type": "캡 용품",
+      "image": "images/products/accessories/11263143.jpg"
+    },
+    {
+      "id": "11263140",
+      "code": "004001000855",
+      "name": "뉴에라 캡 클립 라임",
+      "englishName": "ACC CAP CLIP NE LIM",
+      "price": 9900,
+      "type": "캡 용품",
+      "image": "images/products/accessories/11263140.jpg"
+    },
+    {
+      "id": "11263138",
+      "code": "004001000853",
+      "name": "뉴에라 캡 클립 화이트",
+      "englishName": "ACC CAP CLIP NE WHI",
+      "price": 9900,
+      "type": "캡 용품",
+      "image": "images/products/accessories/11263138.jpg"
+    },
+    {
+      "id": "11263006",
+      "code": "004001000822",
+      "name": "LIV 골프 26 로고 골프 볼 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP GOLF BALL MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11263006.jpg"
+    },
+    {
+      "id": "11263005",
+      "code": "004001000821",
+      "name": "LIV 골프 26 로고 TORQUE 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP TORQUE MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11263005.jpg"
+    },
+    {
+      "id": "11263004",
+      "code": "004001000820",
+      "name": "LIV 골프 26 로고 리브 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP LIV MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11263004.jpg"
+    },
+    {
+      "id": "11263003",
+      "code": "004001000819",
+      "name": "LIV 골프 26 로고 리브2 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP LIV2 MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11263003.jpg"
+    },
+    {
+      "id": "11263002",
+      "code": "004001000818",
+      "name": "LIV 골프 26 로고 S GUARDS 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP S GUARDS MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11263002.jpg"
+    },
+    {
+      "id": "11263001",
+      "code": "004001000817",
+      "name": "LIV 골프 26 로고 RIPPER 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP RIPPER MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11263001.jpg"
+    },
+    {
+      "id": "11263000",
+      "code": "004001000816",
+      "name": "LIV 골프 26 로고 RANGEGOATS 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP RANGEGOATS MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11263000.jpg"
+    },
+    {
+      "id": "11262999",
+      "code": "004001000815",
+      "name": "LIV 골프 26 로고 MAJESTICKS 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP MAJESTICKS MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262999.jpg"
+    },
+    {
+      "id": "11262998",
+      "code": "004001000814",
+      "name": "LIV 골프 26 로고 LEGION XIII 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP LEGION XIII MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262998.jpg"
+    },
+    {
+      "id": "11262997",
+      "code": "004001000813",
+      "name": "LIV 골프 26 로고 코리안2 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP KOREAN2 MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262997.jpg"
+    },
+    {
+      "id": "11262996",
+      "code": "004001000812",
+      "name": "LIV 골프 26 로고 코리안 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP KOREAN MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262996.jpg"
+    },
+    {
+      "id": "11262995",
+      "code": "004001000811",
+      "name": "LIV 골프 26 로고 HYFLYERS 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP HYFLYERS MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262995.jpg"
+    },
+    {
+      "id": "11262994",
+      "code": "004001000810",
+      "name": "LIV 골프 26 로고 FIREBALLS 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP FIREBALLS MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262994.jpg"
+    },
+    {
+      "id": "11262993",
+      "code": "004001000809",
+      "name": "LIV 골프 26 로고 CRUSHERS 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP CRUSHERS MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262993.jpg"
+    },
+    {
+      "id": "11262992",
+      "code": "004001000808",
+      "name": "LIV 골프 26 로고 CLEEKS 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP CLEEKS MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262992.jpg"
+    },
+    {
+      "id": "11262991",
+      "code": "004001000807",
+      "name": "LIV 골프 26 로고 4ACES 스냅 멀티",
+      "englishName": "ACC LIV GOLF LOGO SNAPP 4ACES MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262991.jpg"
+    },
+    {
+      "id": "11262930",
+      "code": "004001000791",
+      "name": "59FIFTY DAY 팔로 피규어 (20cm)",
+      "englishName": "5950 FFALO 2026 (20cm)",
+      "price": 99000,
+      "type": "기타",
+      "image": "images/products/accessories/11262930.jpg"
+    },
+    {
+      "id": "11262929",
+      "code": "004001000790",
+      "name": "59FIFTY DAY 팔로 피규어 (7cm)",
+      "englishName": "5950 DAY FFALO 2026 (7cm)",
+      "price": 16000,
+      "type": "기타",
+      "image": "images/products/accessories/11262929.jpg"
+    },
+    {
+      "id": "11262915",
+      "code": "004001000789",
+      "name": "포켓몬 파이리 베이직 스냅 멀티",
+      "englishName": "ACC POKEMON BASIC SNAPP FAIRI MUL",
+      "price": 5000,
+      "type": "기타",
+      "image": "images/products/accessories/11262915.jpg"
+    }
+  ]
+}

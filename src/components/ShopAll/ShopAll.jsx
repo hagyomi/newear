@@ -9,6 +9,7 @@ const products = [
   ['MLB CORDUROY STADIUM JACKET', 'MLB 뉴욕 양키스 코듀로이 스타디움 재킷 코퍼', 'mint', 'green'],
   ['MLB COOPERS TOWN HOODIE', 'MLB 쿠퍼스 타운 뉴욕 양키스 후드 레드', 'lavender', 'purple'],
 ];
+const productIds = ['11263705', '11263633', '11260660', '11263773', '11263697'];
 // Keep each pair's original paint order and coordinates within its product panel.
 const cutouts = [
   ['imgImgi35162', '121:1139', 556, 438, 489, 522, 'portrait'],
@@ -40,9 +41,9 @@ export default function ShopAll() {
           style={{ '--panel-left': `var(--color-lookbook-${left})`, '--panel-right': `var(--color-lookbook-${right})` }}>
           <div className="shopall__copy">
             <div className="shopall__text"><h3>{name}</h3><p>{description}</p></div>
-            <button className="shopall__link" type="button" disabled aria-label={name + ' 바로가기 — 정적 시안'}>
+            <a className="shopall__link" href={`#/product/${productIds[index]}`} aria-label={description + ' 상세 보기'}>
               <span>바로가기</span><img src={`${import.meta.env.BASE_URL}images/figma/imgFrame60.svg`} alt="" />
-            </button>
+            </a>
           </div>
           {cutouts.filter(([, node]) => panelNodes[index].includes(node)).map(([image, node, x, y, w, h, framing]) =>
             <div className={`shopall__cutout${framing === 'full' ? ' shopall__cutout--full' : ''}`} key={node} data-node-id={node}

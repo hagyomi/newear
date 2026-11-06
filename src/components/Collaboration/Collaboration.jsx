@@ -22,7 +22,7 @@ export default function Collaboration(){return (
               <span className="collaboration__layer-225">COLLABORATION</span>
             </li>
           </ul>
-          <div className="collaboration__layer-226" data-node-id="110:983">
+          <div className="collaboration__layer-226 collaboration__card" data-node-id="110:983">
             <div className="collaboration__layer-227">
               <div className="collaboration__layer-228">
                 <div className="collaboration__layer-229">
@@ -30,8 +30,9 @@ export default function Collaboration(){return (
                 </div>
               </div>
             </div>
+            <a className="collaboration__shortcut" href="#/category/redbull" aria-label="NEW ERA X ORACLE RED BULL RACING 바로가기">바로가기 ↗</a>
           </div>
-          <div className="collaboration__layer-231" data-node-id="110:985">
+          <div className="collaboration__layer-231 collaboration__card" data-node-id="110:985">
             <div className="collaboration__layer-232">
               <div className="collaboration__layer-233">
                 <div className="collaboration__layer-234">
@@ -39,8 +40,9 @@ export default function Collaboration(){return (
                 </div>
               </div>
             </div>
+            <a className="collaboration__shortcut" href="#/category/fearofgod" aria-label="NEW ERA X FEAR OF GOD X MLB 바로가기">바로가기 ↗</a>
           </div>
-          <div className="collaboration__layer-236" data-node-id="110:987">
+          <div className="collaboration__layer-236 collaboration__card" data-node-id="110:987">
             <div className="collaboration__layer-237">
               <div className="collaboration__layer-238">
                 <div className="collaboration__layer-239">
@@ -48,8 +50,9 @@ export default function Collaboration(){return (
                 </div>
               </div>
             </div>
+            <a className="collaboration__shortcut" href="#/category/ralphlauren" aria-label="NEW ERA X RALPH LAUREN X MLB 바로가기">바로가기 ↗</a>
           </div>
-          <div className="collaboration__layer-241" data-node-id="110:989">
+          <div className="collaboration__layer-241 collaboration__card" data-node-id="110:989">
             <div className="collaboration__layer-242">
               <div className="collaboration__layer-243">
                 <div className="collaboration__layer-244">
@@ -57,8 +60,9 @@ export default function Collaboration(){return (
                 </div>
               </div>
             </div>
+            <a className="collaboration__shortcut" href="#/category/lacoste" aria-label="NEW ERA X LACOSTE 바로가기">바로가기 ↗</a>
           </div>
-          <div className="collaboration__layer-246" data-node-id="110:991">
+          <div className="collaboration__layer-246 collaboration__card" data-node-id="110:991">
             <div className="collaboration__layer-247">
               <div className="collaboration__layer-248">
                 <div className="collaboration__layer-249">
@@ -66,6 +70,7 @@ export default function Collaboration(){return (
                 </div>
               </div>
             </div>
+            <a className="collaboration__shortcut" href="#/category/timberland" aria-label="NEW ERA X Timberland 바로가기">바로가기 ↗</a>
           </div>
           <div className="collaboration__layer-251" data-node-id="110:993">
             <p className="collaboration__layer-252" data-node-id="110:994">

@@ -1,0 +1,457 @@
+{
+  "source": "https://www.neweracapkorea.com/shop/shopbrand.html?xcode=031&mcode=002&type=Y",
+  "checkedAt": "2026-11-07",
+  "total": 50,
+  "products": [
+    {
+      "id": "11264229",
+      "code": "060001001781",
+      "name": "MLB LA 다저스 이탈리안 워시 언스트럭쳐 볼캡 애쉬 네이비",
+      "englishName": "940UNST ITALIAN WASH LOSDOD A NVY",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264229.jpg"
+    },
+    {
+      "id": "11264228",
+      "code": "060001001780",
+      "name": "MLB LA 다저스 이탈리안 워시 언스트럭쳐 볼캡 블랙",
+      "englishName": "940UNST ITALIAN WASH LOSDOD BLK",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264228.jpg"
+    },
+    {
+      "id": "11264227",
+      "code": "060001001779",
+      "name": "뉴에라 빈티지 데미지 언스트럭쳐 볼캡 블랙",
+      "englishName": "940UNST VINTAGE DAMAGE NE BLK",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264227.jpg"
+    },
+    {
+      "id": "11264226",
+      "code": "060001001778",
+      "name": "뉴에라 빈티지 데미지 언스트럭쳐 볼캡 인디고",
+      "englishName": "940UNST VINTAGE DAMAGE NE IND",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264226.jpg"
+    },
+    {
+      "id": "11264225",
+      "code": "060005000562",
+      "name": "뉴에라 올드 잉글리시 언스트럭쳐 볼캡 아이보리",
+      "englishName": "920UNST OLD ENGLISH NE IVO",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264225.jpg"
+    },
+    {
+      "id": "11264223",
+      "code": "060005000560",
+      "name": "뉴에라 올드 잉글리시 언스트럭쳐 볼캡 초콜릿",
+      "englishName": "920UNST OLD ENGLISH NE CHO",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264223.jpg"
+    },
+    {
+      "id": "11264222",
+      "code": "060005000559",
+      "name": "뉴에라 올드 잉글리시 언스트럭쳐 볼캡 오션사이드 블루",
+      "englishName": "920UNST OLD ENGLISH NE O BLU",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264222.jpg"
+    },
+    {
+      "id": "11264221",
+      "code": "060005000558",
+      "name": "뉴에라 올드 잉글리시 언스트럭쳐 볼캡 블랙",
+      "englishName": "920UNST OLD ENGLISH NE BLK",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264221.jpg"
+    },
+    {
+      "id": "11264220",
+      "code": "060001001777",
+      "name": "MLB 뉴욕 양키스 포인트 컬러 언스트럭쳐 볼캡 아이보리",
+      "englishName": "940UNST PT COLOR NEYYAN  IVO",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264220.jpg"
+    },
+    {
+      "id": "11264219",
+      "code": "060001001776",
+      "name": "MLB 뉴욕 양키스 포인트 컬러 언스트럭쳐 볼캡 모스",
+      "englishName": "940UNST PT COLOR NEYYAN  MOS",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264219.jpg"
+    },
+    {
+      "id": "11264218",
+      "code": "060001001775",
+      "name": "MLB 뉴욕 양키스 포인트 컬러 언스트럭쳐 볼캡 버건디",
+      "englishName": "940UNST PT COLOR NEYYAN  F BUR",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264218.jpg"
+    },
+    {
+      "id": "11264217",
+      "code": "060001001774",
+      "name": "MLB 뉴욕 양키스 포인트 컬러 언스트럭쳐 볼캡 네이비",
+      "englishName": "940UNST PT COLOR NEYYAN  NVY",
+      "price": 46000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264217.jpg"
+    },
+    {
+      "id": "11264216",
+      "code": "060001001773",
+      "name": "MLB 뉴욕 양키스 스크립트 듀들 언스트럭쳐 볼캡 번트 오렌지",
+      "englishName": "940UNST SCRIPT DOODLE  NEYYAN  B ORA",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264216.jpg"
+    },
+    {
+      "id": "11264215",
+      "code": "060001001772",
+      "name": "MLB LA 다저스 스크립트 듀들 언스트럭쳐 볼캡 그라파이트",
+      "englishName": "940UNST SCRIPT DOODLE  LOSDOD GRA",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264215.jpg"
+    },
+    {
+      "id": "11264214",
+      "code": "060001001771",
+      "name": "MLB LA 다저스 스크립트 듀들 언스트럭쳐 볼캡 로얄 블루",
+      "englishName": "940UNST SCRIPT DOODLE  LOSDOD R BLU",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264214.jpg"
+    },
+    {
+      "id": "11264213",
+      "code": "060001001770",
+      "name": "MLB 뉴욕 양키스 스크립트 듀들 언스트럭쳐 볼캡 네이비",
+      "englishName": "940UNST SCRIPT DOODLE  NEYYAN  NVY",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264213.jpg"
+    },
+    {
+      "id": "11264206",
+      "code": "060001001769",
+      "name": "MLB 세인트루이스 카디널스 몬레이 워시 엣지 언스트럭쳐 볼캡 스칼렛",
+      "englishName": "940UNST MONLYEY WASH L EDGE STLCAR SCA",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264206.jpg"
+    },
+    {
+      "id": "11264205",
+      "code": "060001001768",
+      "name": "MLB 시카고 화이트삭스 몬레이 워시 엣지 언스트럭쳐 볼캡 블랙",
+      "englishName": "940UNST MONLYEY WASH L EDGE CHIWHI BLK",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264205.jpg"
+    },
+    {
+      "id": "11264204",
+      "code": "060001001767",
+      "name": "MLB LA 다저스 몬레이 워시 엣지 언스트럭쳐 볼캡 로얄",
+      "englishName": "940UNST MONLYEY WASH L EDGE LOSDOD ROY",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264204.jpg"
+    },
+    {
+      "id": "11264203",
+      "code": "060001001766",
+      "name": "MLB 뉴욕 양키스 몬레이 워시 엣지 언스트럭쳐 볼캡 네이비",
+      "englishName": "940UNST MONLYEY WASH L EDGE NEYYAN NVY",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264203.jpg"
+    },
+    {
+      "id": "11264202",
+      "code": "059005000554",
+      "name": "MLB 세인트루이스 카디널스 몬레이 워시 엣지 레트로 크라운 스트랩백 스칼렛",
+      "englishName": "RC950 MONLYEY WASH L EDGE STLCAR SCA",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264202.jpg"
+    },
+    {
+      "id": "11264201",
+      "code": "059005000553",
+      "name": "MLB 시카고 화이트삭스 몬레이 워시 엣지 레트로 크라운 스트랩백 블랙",
+      "englishName": "RC950 MONLYEY WASH L EDGE CHIWHI BLK",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264201.jpg"
+    },
+    {
+      "id": "11264198",
+      "code": "059005000550",
+      "name": "MLB LA 다저스 몬레이 워시 엣지 레트로 크라운 스트랩백 로얄",
+      "englishName": "RC950 MONLYEY WASH L EDGE LOSDOD ROY",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264198.jpg"
+    },
+    {
+      "id": "11264196",
+      "code": "059005000548",
+      "name": "MLB 뉴욕 양키스 몬레이 워시 엣지 레트로 크라운 스트랩백 네이비",
+      "englishName": "RC950 MONLYEY WASH L EDGE NEYYAN NVY",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264196.jpg"
+    },
+    {
+      "id": "11264192",
+      "code": "003007000014",
+      "name": "MLB 26 월드시리즈 챔피언 밀워키 브루어스 A프레임 피티드캡 블랙",
+      "englishName": "MLB26 WORLD SERIES CHMPS 5950A",
+      "price": 59000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264192.jpg"
+    },
+    {
+      "id": "11264189",
+      "code": "059003000036",
+      "name": "MLB 26 월드시리즈 챔피언 밀워키 브루어스 퍼레이드 A프레임 스냅백 크롬 화이트",
+      "englishName": "MLB26 PARADE 950 AF PRECURVE M",
+      "price": 59000,
+      "type": "스냅백",
+      "image": "images/products/authentic/11264189.jpg"
+    },
+    {
+      "id": "11264187",
+      "code": "003001003087",
+      "name": "MLB 26 월드 시리즈 밀워키 브루어스 피티드캡 얼트 옐로우",
+      "englishName": "ACPERF MILBRE ALT 2020 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264187.jpg"
+    },
+    {
+      "id": "11264186",
+      "code": "003001003086",
+      "name": "MLB 26 월드 시리즈 밀워키 브루어스 피티드캡 라이트 네이비",
+      "englishName": "ACPERF MILBRE HM 2020 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264186.jpg"
+    },
+    {
+      "id": "11264185",
+      "code": "003001003085",
+      "name": "MLB 26 월드 시리즈 탬파베이 레이스 피티드캡 얼트 라이트 네이비",
+      "englishName": "ACPERF TAMRAY ALT 2018 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264185.jpg"
+    },
+    {
+      "id": "11264184",
+      "code": "003001003084",
+      "name": "MLB 26 월드 시리즈 탬파베이 레이스 피티드캡 라이트 네이비",
+      "englishName": "ACPERF TAMRAY GM 2017 WS SP26",
+      "price": 53000,
+      "type": "피티드캡",
+      "image": "images/products/authentic/11264184.jpg"
+    },
+    {
+      "id": "11264169",
+      "code": "068008000055",
+      "name": "MLB LA 다저스 하운드투스 필박스 피티드캡 블랙",
+      "englishName": "PILLBOX HOUNDSTOOTH LOSDOD BLK",
+      "price": 65000,
+      "type": "피티드캡",
+      "image": "images/products/headwear/11264169.jpg"
+    },
+    {
+      "id": "11264168",
+      "code": "068008000054",
+      "name": "MLB LA 다저스 하운드투스 필박스 피티드캡 브라운",
+      "englishName": "PILLBOX HOUNDSTOOTH LOSDOD BRO",
+      "price": 65000,
+      "type": "피티드캡",
+      "image": "images/products/headwear/11264168.jpg"
+    },
+    {
+      "id": "11264167",
+      "code": "068008000053",
+      "name": "MLB 쿠퍼스 타운 뉴욕 양키스 하이랜더스 필박스 피티드캡 샌디린넨/네이비",
+      "englishName": "PILLBOX NY HIGHLANDERS NEYYANCO LIN NVY",
+      "price": 65000,
+      "type": "피티드캡",
+      "image": "images/products/headwear/11264167.jpg"
+    },
+    {
+      "id": "11264166",
+      "code": "068008000052",
+      "name": "MLB 쿠퍼스 타운 뉴욕 양키스 하이랜더스 필박스 피티드캡 네이비",
+      "englishName": "PILLBOX NY HIGHLANDERS NEYYANCO NVY",
+      "price": 65000,
+      "type": "피티드캡",
+      "image": "images/products/headwear/11264166.jpg"
+    },
+    {
+      "id": "11264165",
+      "code": "060001001760",
+      "name": "MLB 쿠퍼스 타운 뉴욕 양키스 하이랜더스 언스트럭쳐 볼캡 아이보리/네이비",
+      "englishName": "940UNST NY HIGHLANDERS NEYYANCO IVO NVY",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264165.jpg"
+    },
+    {
+      "id": "11264164",
+      "code": "060001001759",
+      "name": "MLB 쿠퍼스 타운 뉴욕 양키스 하이랜더스 언스트럭쳐 볼캡 네이비",
+      "englishName": "940UNST NY HIGHLANDERS NEYYANCO NVY",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264164.jpg"
+    },
+    {
+      "id": "11264163",
+      "code": "060003000665",
+      "name": "MLB 월드 시리즈 듀얼 로고 A프레임 볼캡 우드랜드 카모",
+      "englishName": "940AF WS DUAL LOGO MULTI W CAM",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264163.jpg"
+    },
+    {
+      "id": "11264162",
+      "code": "060003000664",
+      "name": "MLB 월드 시리즈 듀얼 로고 A프레임 볼캡 카멜",
+      "englishName": "940AF WS DUAL LOGO MULTI CAM",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264162.jpg"
+    },
+    {
+      "id": "11264161",
+      "code": "060003000663",
+      "name": "MLB 월드 시리즈 듀얼 로고 A프레임 볼캡 초콜릿",
+      "englishName": "940AF WS DUAL LOGO MULTI CHO",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264161.jpg"
+    },
+    {
+      "id": "11264160",
+      "code": "060003000662",
+      "name": "MLB 월드 시리즈 듀얼 로고 A프레임 볼캡 블랙",
+      "englishName": "940AF WS DUAL LOGO MULTI BLK",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264160.jpg"
+    },
+    {
+      "id": "11264159",
+      "code": "063001000103",
+      "name": "MLB 뉴욕 양키스 몬레이 워시 쉐도우 로고 볼캡 레드",
+      "englishName": "1920 MONLYEY WASH SHDW LOGO NEYYAN  RED",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264159.jpg"
+    },
+    {
+      "id": "11264157",
+      "code": "063001000101",
+      "name": "MLB 뉴욕 양키스 몬레이 워시 쉐도우 로고 볼캡 네이비",
+      "englishName": "1920 MONLYEY WASH SHDW LOGO NEYYAN  NVY",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264157.jpg"
+    },
+    {
+      "id": "11264142",
+      "code": "060006001334",
+      "name": "MLB 핀치히터 샌프란시스코 자이언츠 볼캡 블랙",
+      "englishName": "940 MLB PINCH HITTER TEAM LOGO SAFGIA BLK",
+      "price": 36000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264142.jpg"
+    },
+    {
+      "id": "11264141",
+      "code": "003001003076",
+      "name": "MLB 뉴욕 양키스 시티 닉네임 피티드캡 네이비",
+      "englishName": "5950 CITY NICKNAME NEYYAN NVY",
+      "price": 59000,
+      "type": "피티드캡",
+      "image": "images/products/fw26/11264141.jpg"
+    },
+    {
+      "id": "11264139",
+      "code": "003001003074",
+      "name": "MLB 시카고 화이트삭스 시티 닉네임 피티드캡 블랙",
+      "englishName": "5950 CITY NICKNAME CHIWHI BLK",
+      "price": 59000,
+      "type": "피티드캡",
+      "image": "images/products/fiftynine/11264139.jpg"
+    },
+    {
+      "id": "11264137",
+      "code": "059005000543",
+      "name": "뉴에라 스크립트 듀들 레트로 크라운 스트랩백 초콜릿",
+      "englishName": "RC950 SCRIPT DOODLE  NE CHO",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/fw26/11264137.jpg"
+    },
+    {
+      "id": "11264135",
+      "code": "059005000541",
+      "name": "뉴에라 스크립트 듀들 레트로 크라운 스트랩백 네이비",
+      "englishName": "RC950 SCRIPT DOODLE NE NVY",
+      "price": 59000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264135.jpg"
+    },
+    {
+      "id": "11264133",
+      "code": "060005000557",
+      "name": "MLB 뉴욕 양키스 핀스트라이프 A프레임 언스트럭쳐 볼캡 블랙",
+      "englishName": "920AF PIN STRP NEYYAN  BLK",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264133.jpg"
+    },
+    {
+      "id": "11264131",
+      "code": "060005000555",
+      "name": "MLB 뉴욕 양키스 핀스트라이프 A프레임 언스트럭쳐 볼캡 아이보리/블랙",
+      "englishName": "920AF PIN STRP NEYYAN  IVO BLK",
+      "price": 49000,
+      "type": "볼캡",
+      "image": "images/products/headwear/11264131.jpg"
+    },
+    {
+      "id": "11264130",
+      "code": "003001003072",
+      "name": "MLB 뉴욕 양키스 핀스트라이프 소프트 버크람 피티드캡 다크그린/블랙",
+      "englishName": "5950SB PIN STRP NEYYAN  D GRN BLK",
+      "price": 59000,
+      "type": "피티드캡",
+      "image": "images/products/fiftynine/11264130.jpg"
+    }
+  ]
+}

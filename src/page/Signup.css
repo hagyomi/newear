@@ -1,0 +1,39 @@
+.signup__buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.signup__divider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 32px 0 20px;
+  color: #666;
+  font-size: 12px;
+}
+
+.signup__divider::before,.signup__divider::after {
+  content: '';
+  height: 1px;
+  flex: 1;
+  background: #ddd;
+}
+
+.signup__kakao {
+  gap: 10px;
+  background: #fee500;
+  border-color: #fee500;
+  color: #191919;
+}
+
+.signup__kakao:hover {
+  background: #f5dc00;
+  border-color: #f5dc00;
+}
+
+.signup__login-link {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  margin-left: 8px;
+}
