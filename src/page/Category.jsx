@@ -11,7 +11,6 @@ export default function Category({ category }) {
         <p className="category__eyebrow">NEW ERA COLLECTION</p>
         <h1 id="category-title" className={category.label.length > 22 ? 'category__title--long' : undefined}>{category.label}</h1>
         <p className="category__description">{category.description}</p>
-        <a className="category__back" href="#/">메인 컬렉션 둘러보기 ↗</a>
       </div>
     </section>
     <Fw26Products key={category.slug} catalog={catalogs[category.slug]} types={categoryTypes[category.slug]} label={category.label} sortId={`${category.slug}-sort`} />
